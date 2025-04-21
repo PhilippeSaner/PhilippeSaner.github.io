@@ -1,0 +1,2966 @@
+[CustomCards]
+	[
+		{
+			"name": "Animated Marionette",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/217_Animated Marionette.png"
+			}
+		},
+		{
+			"name": "Apprentice Witch",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/39_Apprentice Witch.png"
+			}
+		},
+		{
+			"name": "Avarellian Elf",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Peasant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/155_Avarellian Elf.png"
+			}
+		},
+		{
+			"name": "Uyavian Paladin",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Ouphe Rabbit Knight",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/32_Uyavian Paladin.png"
+			}
+		},
+		{
+			"name": "Sentence to Isolation",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/26_Sentence to Isolation.png"
+			}
+		},
+		{
+			"name": "Azorian Sky-Priest",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Ouphe Bird Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/2_Azorian Sky-Priest.png"
+			}
+		},
+		{
+			"name": "Beloved Queen",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Ouphe Squirrel Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/5_Beloved Queen.png"
+			}
+		},
+		{
+			"name": "Tranquil Moment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/30_Tranquil Moment.png"
+			}
+		},
+		{
+			"name": "Merciful Caladrius",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/19_Merciful Caladrius.png"
+			}
+		},
+		{
+			"name": "Skullcrunching People-Eater",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Troll",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/102_Skullcrunching People-Eater.png"
+			}
+		},
+		{
+			"name": "Childcatcher Witch",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/83_Childcatcher Witch.png"
+			}
+		},
+		{
+			"name": "Clever Maidservant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/40_Clever Maidservant.png"
+			}
+		},
+		{
+			"name": "Filton Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Giant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/45_Filton Giant.png"
+			}
+		},
+		{
+			"name": "Unburden",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/110_Unburden.png"
+			}
+		},
+		{
+			"name": "Back to Back",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/116_Back to Back.png"
+			}
+		},
+		{
+			"name": "Court Astrologer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard Advisor",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/41_Court Astrologer.png"
+			}
+		},
+		{
+			"name": "Bane of Vortheld",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Cockatrice",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/80_Bane of Vortheld.png"
+			}
+		},
+		{
+			"name": "Reduce to Ruins",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/142_Reduce to Ruins.png"
+			}
+		},
+		{
+			"name": "Wicked Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/226_Wicked Blade.png"
+			}
+		},
+		{
+			"name": "Overconfident Alchemist",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Ouphe Mole Wizard",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/138_Overconfident Alchemist.png"
+			}
+		},
+		{
+			"name": "Eager Adventurer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/126_Eager Adventurer.png"
+			}
+		},
+		{
+			"name": "Morossian Giant",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/177_Morossian Giant.png"
+			}
+		},
+		{
+			"name": "Egg Man",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Egg Berserker",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/127_Egg Man.png"
+			}
+		},
+		{
+			"name": "Elderlify",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/90_Elderlify.png"
+			}
+		},
+		{
+			"name": "Elf-Child",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Peasant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/163_Elf-Child.png"
+			}
+		},
+		{
+			"name": "Farajo's Intervention",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/13_Farajo's Intervention.png"
+			}
+		},
+		{
+			"name": "Hardhearted Oaf",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/130_Hardhearted Oaf.png"
+			}
+		},
+		{
+			"name": "Song of Summer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/146_Song of Summer.png"
+			}
+		},
+		{
+			"name": "Unexpected Adventure",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/66_Unexpected Adventure.png"
+			}
+		},
+		{
+			"name": "Man-Eating Snail",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Snail",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/95_Man-Eating Snail.png"
+			}
+		},
+		{
+			"name": "Gift of Paradise",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/167_Gift of Paradise.png"
+			}
+		},
+		{
+			"name": "Housecat Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Ouphe Cat Knight",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/16_Housecat Knight.png"
+			}
+		},
+		{
+			"name": "Invigorating Drink",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/172_Invigorating Drink.png"
+			}
+		},
+		{
+			"name": "Azorian Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/1_Azorian Knight.png"
+			}
+		},
+		{
+			"name": "Larger Than Life",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/174_Larger Than Life.png"
+			}
+		},
+		{
+			"name": "Magical Mirror",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/222_Magical Mirror.png"
+			}
+		},
+		{
+			"name": "Maiden of the Forest",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/175_Maiden of the Forest.png"
+			}
+		},
+		{
+			"name": "Manflinger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Ogre",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/134_Manflinger.png"
+			}
+		},
+		{
+			"name": "Arrogant Blackguard",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Knight Rogue",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/78_Arrogant Blackguard.png"
+			}
+		},
+		{
+			"name": "Mesa Unicorn",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Unicorn",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/20_Mesa Unicorn.png"
+			}
+		},
+		{
+			"name": "Noble Steed",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Ouphe Horse",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/21_Noble Steed.png"
+			}
+		},
+		{
+			"name": "Ornery Leprechaun",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ouphe Human",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/179_Ornery Leprechaun.png"
+			}
+		},
+		{
+			"name": "Faebound Mage",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Ouphe Cat Wizard",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/91_Faebound Mage.png"
+			}
+		},
+		{
+			"name": "Radiant Fountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/240_Radiant Fountain.png"
+			}
+		},
+		{
+			"name": "Royal Edict",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/99_Royal Edict.png"
+			}
+		},
+		{
+			"name": "Seek Faerieland",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Quest",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/54_Seek Faerieland.png"
+			}
+		},
+		{
+			"name": "Setting Fires",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/145_Setting Fires.png"
+			}
+		},
+		{
+			"name": "Slay the Monster",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Quest",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/103_Slay the Monster.png"
+			}
+		},
+		{
+			"name": "Retired Adventurer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard Knight",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/98_Retired Adventurer.png"
+			}
+		},
+		{
+			"name": "Disorder and Confusion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/121_Disorder and Confusion.png"
+			}
+		},
+		{
+			"name": "Wander in Death",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/113_Wander in Death.png"
+			}
+		},
+		{
+			"name": "Sprinkledust Pixie",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/60_Sprinkledust Pixie.png"
+			}
+		},
+		{
+			"name": "Spiderback Lizard",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ouphe Lizard",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/181_Spiderback Lizard.png"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/246_Terramorphic Expanse.png"
+			}
+		},
+		{
+			"name": "Incompetent Despot",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/92_Incompetent Despot.png"
+			}
+		},
+		{
+			"name": "To See the World",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Quest",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/62_To See the World.png"
+			}
+		},
+		{
+			"name": "Seek Your Fortune",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/144_Seek Your Fortune.png"
+			}
+		},
+		{
+			"name": "Underbridge Troll",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Troll",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/187_Underbridge Troll.png"
+			}
+		},
+		{
+			"name": "Valiant Protector",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/33_Valiant Protector.png"
+			}
+		},
+		{
+			"name": "Vicious Manticore",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Manticore",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/151_Vicious Manticore.png"
+			}
+		},
+		{
+			"name": "Walk the Faerie Path",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/68_Walk the Faerie Path.png"
+			}
+		},
+		{
+			"name": "Webweave Widow",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ouphe Spider",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/189_Webweave Widow.png"
+			}
+		},
+		{
+			"name": "Whirlwind Romance",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/153_Whirlwind Romance.png"
+			}
+		},
+		{
+			"name": "Witch's Broomstick",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/72_Witch's Broomstick.png"
+			}
+		},
+		{
+			"name": "Wolf of the Endless Forest",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Ouphe Wolf",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/190_Wolf of the Endless Forest.png"
+			}
+		},
+		{
+			"name": "Writhing Rotworms",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Worm",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/115_Writhing Rotworms.png"
+			}
+		},
+		{
+			"name": "Yaragi Skinchanger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/191_Yaragi Skinchanger.png"
+			}
+		},
+		{
+			"name": "Witch-Baroness",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Hag Wizard Noble",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/71_Witch-Baroness.png"
+			}
+		},
+		{
+			"name": "Tranquil Thicket",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/247_Tranquil Thicket.png"
+			}
+		},
+		{
+			"name": "Forgotten Cave",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/231_Forgotten Cave.png"
+			}
+		},
+		{
+			"name": "Barren Moor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/229_Barren Moor.png"
+			}
+		},
+		{
+			"name": "Lonely Sandbar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/234_Lonely Sandbar.png"
+			}
+		},
+		{
+			"name": "Secluded Steppe",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/243_Secluded Steppe.png"
+			}
+		},
+		{
+			"name": "Witch's Denial",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/73_Witch's Denial.png"
+			}
+		},
+		{
+			"name": "Yaragi Knight",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/37_Yaragi Knight.png"
+			}
+		},
+		{
+			"name": "Blight Egg",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Egg",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/82_Blight Egg.png"
+			}
+		},
+		{
+			"name": "Crowd of Peasants",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/159_Crowd of Peasants.png"
+			}
+		},
+		{
+			"name": "King of Thieves",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue Noble",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/47_King of Thieves.png"
+			}
+		},
+		{
+			"name": "Explosive Potion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/128_Explosive Potion.png"
+			}
+		},
+		{
+			"name": "A Challenge!",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/157_A Challenge!.png"
+			}
+		},
+		{
+			"name": "Arrogant Prince",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/79_Arrogant Prince.png"
+			}
+		},
+		{
+			"name": "Seek Excitement",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/143_Seek Excitement.png"
+			}
+		},
+		{
+			"name": "Sentence to Serenity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/214_Sentence to Serenity.png"
+			}
+		},
+		{
+			"name": "Cry Wolf",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/7_Cry Wolf.png"
+			}
+		},
+		{
+			"name": "Cunning Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ouphe Fox Rogue",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/160_Cunning Fox.png"
+			}
+		},
+		{
+			"name": "Sentence to Honesty",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/55_Sentence to Honesty.png"
+			}
+		},
+		{
+			"name": "Cherished Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/218_Cherished Armor.png"
+			}
+		},
+		{
+			"name": "Deathbringer Faerie",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Faerie Wizard Assassin",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/194_Deathbringer Faerie.png"
+			}
+		},
+		{
+			"name": "Disguised Wolf",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ouphe Wolf",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/162_Disguised Wolf.png"
+			}
+		},
+		{
+			"name": "Disproportionate Punishment",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/8_Disproportionate Punishment.png"
+			}
+		},
+		{
+			"name": "Spidery Friends",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/182_Spidery Friends.png"
+			}
+		},
+		{
+			"name": "Spirit of Summer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/147_Spirit of Summer.png"
+			}
+		},
+		{
+			"name": "Hero of Many Stories",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/131_Hero of Many Stories.png"
+			}
+		},
+		{
+			"name": "Flicker-Flitter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Wizard Knight",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/46_Flicker-Flitter.png"
+			}
+		},
+		{
+			"name": "Gingerbread House",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/232_Gingerbread House.png"
+			}
+		},
+		{
+			"name": "Goose That Lays Golden Eggs",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/197_Goose That Lays Golden Eggs.png"
+			}
+		},
+		{
+			"name": "Gustbreath Wolf",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Ouphe Wolf Wizard",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/171_Gustbreath Wolf.png"
+			}
+		},
+		{
+			"name": "Impulsive Rake",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/199_Impulsive Rake.png"
+			}
+		},
+		{
+			"name": "Innocent Princess",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/17_Innocent Princess.png"
+			}
+		},
+		{
+			"name": "Journey to the Underworld",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Quest",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/93_Journey to the Underworld.png"
+			}
+		},
+		{
+			"name": "King of Beasts",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Ouphe Cat Noble",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/202_King of Beasts.png"
+			}
+		},
+		{
+			"name": "Azor's Curse",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/3_Azor's Curse.png"
+			}
+		},
+		{
+			"name": "Master Poisoner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/96_Master Poisoner.png"
+			}
+		},
+		{
+			"name": "Mechanical Girl",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/223_Mechanical Girl.png"
+			}
+		},
+		{
+			"name": "Chivalrous Mantis",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Ouphe Insect Knight",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/158_Chivalrous Mantis.png"
+			}
+		},
+		{
+			"name": "Morossian Viper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Ouphe Snake",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/178_Morossian Viper.png"
+			}
+		},
+		{
+			"name": "Witch's Doom",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/74_Witch's Doom.png"
+			}
+		},
+		{
+			"name": "New Adventures",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/209_New Adventures.png"
+			}
+		},
+		{
+			"name": "Go Utterly Mad",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/129_Go Utterly Mad.png"
+			}
+		},
+		{
+			"name": "Fantasian Giant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Nightmare Giant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/165_Fantasian Giant.png"
+			}
+		},
+		{
+			"name": "Overprotective Wife",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/22_Overprotective Wife.png"
+			}
+		},
+		{
+			"name": "Preacher of Love",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/212_Preacher of Love.png"
+			}
+		},
+		{
+			"name": "Spoiled Heir",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/105_Spoiled Heir.png"
+			}
+		},
+		{
+			"name": "Oathbound of Gaheris",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/210_Oathbound of Gaheris.png"
+			}
+		},
+		{
+			"name": "Princess of the Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Merfolk Noble",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/50_Princess of the Sea.png"
+			}
+		},
+		{
+			"name": "Dragon Raid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/123_Dragon Raid.png"
+			}
+		},
+		{
+			"name": "Slimy Frog",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Frog Noble",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/104_Slimy Frog.png"
+			}
+		},
+		{
+			"name": "Spirit of Winter",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/59_Spirit of Winter.png"
+			}
+		},
+		{
+			"name": "Speak the True Name",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/58_Speak the True Name.png"
+			}
+		},
+		{
+			"name": "Stealing Dragon Eggs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/148_Stealing Dragon Eggs.png"
+			}
+		},
+		{
+			"name": "Witch's Throne",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/227_Witch's Throne.png"
+			}
+		},
+		{
+			"name": "The Power of Love",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/23_The Power of Love.png"
+			}
+		},
+		{
+			"name": "Travelling Salesman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Ouphe Cat Merchant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/108_Travelling Salesman.png"
+			}
+		},
+		{
+			"name": "Turn to Frog",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/64_Turn to Frog.png"
+			}
+		},
+		{
+			"name": "Undoing the Wizard's Work",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Quest",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/65_Undoing the Wizard's Work.png"
+			}
+		},
+		{
+			"name": "Unhappy Ending",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/111_Unhappy Ending.png"
+			}
+		},
+		{
+			"name": "Equestrian Exemplar",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/10_Equestrian Exemplar.png"
+			}
+		},
+		{
+			"name": "Walking Cottage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/249_Walking Cottage.png"
+			}
+		},
+		{
+			"name": "Wedded Warriors",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/152_Wedded Warriors.png"
+			}
+		},
+		{
+			"name": "Guardian of the Endless Forest",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/170_Guardian of the Endless Forest.png"
+			}
+		},
+		{
+			"name": "Witch's Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Scarecrow Horror",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/75_Witch's Enforcer.png"
+			}
+		},
+		{
+			"name": "Curious Egg",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Beast Chimera Egg",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/120_Curious Egg.png"
+			}
+		},
+		{
+			"name": "You Shall Not Pass",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/38_You Shall Not Pass.png"
+			}
+		},
+		{
+			"name": "Silverblade Baroness",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Knight Noble",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/27_Silverblade Baroness.png"
+			}
+		},
+		{
+			"name": "Steal from the Rich",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/28_Steal from the Rich.png"
+			}
+		},
+		{
+			"name": "Stop the World",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/29_Stop the World.png"
+			}
+		},
+		{
+			"name": "Vortheld Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/35_Vortheld Dragon.png"
+			}
+		},
+		{
+			"name": "Entrancing Melody",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/44_Entrancing Melody.png"
+			}
+		},
+		{
+			"name": "Smallest Astrologist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Ouphe Mouse Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/57_Smallest Astrologist.png"
+			}
+		},
+		{
+			"name": "Unwaking Dreamer",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Wizard Nightmare",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/67_Unwaking Dreamer.png"
+			}
+		},
+		{
+			"name": "Mirror-Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/49_Mirror-Maiden.png"
+			}
+		},
+		{
+			"name": "Descendant of Azor",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/43_Descendant of Azor.png"
+			}
+		},
+		{
+			"name": "Time Bubble",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/61_Time Bubble.png"
+			}
+		},
+		{
+			"name": "To the Moon!",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Enchantment — Quest",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/63_To the Moon!.png"
+			}
+		},
+		{
+			"name": "All-Consuming Void",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/77_All-Consuming Void.png"
+			}
+		},
+		{
+			"name": "Contest for the Crown",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Enchantment — Quest",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/84_Contest for the Crown.png"
+			}
+		},
+		{
+			"name": "Supreme Merchant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/106_Supreme Merchant.png"
+			}
+		},
+		{
+			"name": "Royal Vizier",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Wizard Advisor",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/100_Royal Vizier.png"
+			}
+		},
+		{
+			"name": "A Contract With Lightning",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/119_A Contract With Lightning.png"
+			}
+		},
+		{
+			"name": "Uyavian Midwife",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ouphe Rabbit",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/150_Uyavian Midwife.png"
+			}
+		},
+		{
+			"name": "Needless Crusade",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/137_Needless Crusade.png"
+			}
+		},
+		{
+			"name": "Journey of Self-Discovery",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/133_Journey of Self-Discovery.png"
+			}
+		},
+		{
+			"name": "Treasure-Hoard Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/149_Treasure-Hoard Dragon.png"
+			}
+		},
+		{
+			"name": "Stephen the Many-Headed",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Legendary Creature — Ouphe Hydra",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/183_Stephen the Many-Headed.png"
+			}
+		},
+		{
+			"name": "Green Knight",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Giant Knight",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/168_Green Knight.png"
+			}
+		},
+		{
+			"name": "Jousting Grounds",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/173_Jousting Grounds.png"
+			}
+		},
+		{
+			"name": "Tarrasque",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dragon Chimera",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/184_Tarrasque.png"
+			}
+		},
+		{
+			"name": "Pious Farmer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Ouphe Mouse Peasant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/211_Pious Farmer.png"
+			}
+		},
+		{
+			"name": "Cook and Eat",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/192_Cook and Eat.png"
+			}
+		},
+		{
+			"name": "Enchanted Summer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/195_Enchanted Summer.png"
+			}
+		},
+		{
+			"name": "Luton, Usurper King",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/203_Luton, Usurper King.png"
+			}
+		},
+		{
+			"name": "Gaheris, Slayer of Heretics",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Zombie Knight",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/196_Gaheris, Slayer of Heretics.png"
+			}
+		},
+		{
+			"name": "Janjahar the All-Consuming",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Janjahar",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/200_Janjahar the All-Consuming.png"
+			}
+		},
+		{
+			"name": "Kath, Young Adventurer",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Peasant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/201_Kath, Young Adventurer.png"
+			}
+		},
+		{
+			"name": "Mitling Mage",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Gnome Wizard",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/206_Mitling Mage.png"
+			}
+		},
+		{
+			"name": "Nameless God of Crawling Things",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/207_Nameless God of Crawling Things.png"
+			}
+		},
+		{
+			"name": "Nathalie, Heretic Priestess",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/208_Nathalie, Heretic Priestess.png"
+			}
+		},
+		{
+			"name": "Uya, Phelddagrif Queen",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Phelddagrif Noble",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/215_Uya, Phelddagrif Queen.png"
+			}
+		},
+		{
+			"name": "Sword of Kings",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/225_Sword of Kings.png"
+			}
+		},
+		{
+			"name": "Desolate Marsh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/230_Desolate Marsh.png"
+			}
+		},
+		{
+			"name": "Slumbering Volcano",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/244_Slumbering Volcano.png"
+			}
+		},
+		{
+			"name": "Picturesque Town",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/239_Picturesque Town.png"
+			}
+		},
+		{
+			"name": "Lost Woods",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/235_Lost Woods.png"
+			}
+		},
+		{
+			"name": "Vortheld Pegasus",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Creature — Pegasus",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/36_Vortheld Pegasus.png"
+			}
+		},
+		{
+			"name": "Command Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/118_Command Flame.png"
+			}
+		},
+		{
+			"name": "Vasilisa Ilyina",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Vasilisa",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/188_Vasilisa Ilyina.png"
+			}
+		},
+		{
+			"name": "Mitling House",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/237_Mitling House.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/251_Island.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/253_Mountain.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/252_Swamp.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/250_Plains.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/254_Forest.png"
+			}
+		},
+		{
+			"name": "Beeback Paladin",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Ouphe Insect Knight",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/81_Beeback Paladin.png"
+			}
+		},
+		{
+			"name": "Morossian Curse-Breaker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ouphe Insect Cleric",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/176_Morossian Curse-Breaker.png"
+			}
+		},
+		{
+			"name": "Ingenious Fool",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/132_Ingenious Fool.png"
+			}
+		},
+		{
+			"name": "Declare Dominance",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/161_Declare Dominance.png"
+			}
+		},
+		{
+			"name": "Elusive Glatisant",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast Chimera",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/164_Elusive Glatisant.png"
+			}
+		},
+		{
+			"name": "Courtly Lover",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight Noble",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/6_Courtly Lover.png"
+			}
+		},
+		{
+			"name": "Five Impossible Tasks",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Enchantment — Quest",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/166_Five Impossible Tasks.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/17_Treasure.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/12_Dragon.png"
+			}
+		},
+		{
+			"name": "Faerie Wizard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Wizard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/5_Faerie Wizard.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/1_Human.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/9_Insect.png"
+			}
+		},
+		{
+			"name": "Mercenary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Mercenary",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/10_Mercenary.png"
+			}
+		},
+		{
+			"name": "Ouphe Hippo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ouphe Hippo",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/14_Ouphe Hippo.png"
+			}
+		},
+		{
+			"name": "Ouphe Spider",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ouphe Spider",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/15_Ouphe Spider.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — llusion",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/7_Illusion.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/11_Zombie.png"
+			}
+		},
+		{
+			"name": "Dream Logic",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/125_Dream Logic.png"
+			}
+		},
+		{
+			"name": "Dub",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/9_Dub.png"
+			}
+		},
+		{
+			"name": "Valor of the Faithful",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/34_Valor of the Faithful.png"
+			}
+		},
+		{
+			"name": "Radiant Monarch",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/25_Radiant Monarch.png"
+			}
+		},
+		{
+			"name": "Farajo, the Mediator",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Planeswalker — Farajo",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/12_Farajo, the Mediator.png"
+			}
+		},
+		{
+			"name": "Silent Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/101_Silent Knight.png"
+			}
+		},
+		{
+			"name": "Coven Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/86_Coven Leader.png"
+			}
+		},
+		{
+			"name": "Prince Valhon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/24_Prince Valhon.png"
+			}
+		},
+		{
+			"name": "Live Happily Ever After",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/18_Live Happily Ever After.png"
+			}
+		},
+		{
+			"name": "Befriend",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/4_Befriend.png"
+			}
+		},
+		{
+			"name": "Good Luck Charm",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/219_Good Luck Charm.png"
+			}
+		},
+		{
+			"name": "Aggressive Instinct",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/154_Aggressive Instinct.png"
+			}
+		},
+		{
+			"name": "Treacherous Scorpion",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Ouphe Scorpion",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/186_Treacherous Scorpion.png"
+			}
+		},
+		{
+			"name": "Deceitful Kelpie",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Horse Spirit",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/42_Deceitful Kelpie.png"
+			}
+		},
+		{
+			"name": "Search for the Lamp",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Enchantment — Quest",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/52_Search for the Lamp.png"
+			}
+		},
+		{
+			"name": "Sleep Forever",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/56_Sleep Forever.png"
+			}
+		},
+		{
+			"name": "Gruff Goat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ouphe Goat",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/169_Gruff Goat.png"
+			}
+		},
+		{
+			"name": "Punisher of Heresy",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/140_Punisher of Heresy.png"
+			}
+		},
+		{
+			"name": "Macabre Groom",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/204_Macabre Groom.png"
+			}
+		},
+		{
+			"name": "Wicked Stepfather",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/114_Wicked Stepfather.png"
+			}
+		},
+		{
+			"name": "Suspicious Atoll",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/245_Suspicious Atoll.png"
+			}
+		},
+		{
+			"name": "Curse of Vrek",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/87_Curse of Vrek.png"
+			}
+		},
+		{
+			"name": "Costly Plunder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/85_Costly Plunder.png"
+			}
+		},
+		{
+			"name": "Draconic Consort",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/122_Draconic Consort.png"
+			}
+		},
+		{
+			"name": "Bride of the Nameless God",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/156_Bride of the Nameless God.png"
+			}
+		},
+		{
+			"name": "Ugly Duckling",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Ouphe Bird",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/31_Ugly Duckling.png"
+			}
+		},
+		{
+			"name": "Goldenplate Paladin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/15_Goldenplate Paladin.png"
+			}
+		},
+		{
+			"name": "Sentence to Regret",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/213_Sentence to Regret.png"
+			}
+		},
+		{
+			"name": "Meaningless Violence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/205_Meaningless Violence.png"
+			}
+		},
+		{
+			"name": "A King's Ransom",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/220_A King's Ransom.png"
+			}
+		},
+		{
+			"name": "Test of Character",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/107_Test of Character.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/8_Demon.png"
+			}
+		},
+		{
+			"name": "Giant Slayer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Ouphe Mouse Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/14_Giant Slayer.png"
+			}
+		},
+		{
+			"name": "Cavalier Cavalier",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/117_Cavalier Cavalier.png"
+			}
+		},
+		{
+			"name": "Dark Lord's Orders",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/193_Dark Lord's Orders.png"
+			}
+		},
+		{
+			"name": "Quest for the Holy Blade",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Enchantment — Quest",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/141_Quest for the Holy Blade.png"
+			}
+		},
+		{
+			"name": "Tranquility",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/185_Tranquility.png"
+			}
+		},
+		{
+			"name": "Skinchanger's Talisman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/224_Skinchanger's Talisman.png"
+			}
+		},
+		{
+			"name": "Wishing Fish",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Ouphe Fish Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/70_Wishing Fish.png"
+			}
+		},
+		{
+			"name": "Magnificent Heist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/94_Magnificent Heist.png"
+			}
+		},
+		{
+			"name": "Lady of the Lake",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nymph Wizard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/48_Lady of the Lake.png"
+			}
+		},
+		{
+			"name": "Merchant Prince",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Merchant Noble",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/97_Merchant Prince.png"
+			}
+		},
+		{
+			"name": "Holy Fire",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{W}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/198_Holy Fire.png"
+			}
+		},
+		{
+			"name": "Peasant Revolt",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/139_Peasant Revolt.png"
+			}
+		},
+		{
+			"name": "Peasant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Peasant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/13_Peasant.png"
+			}
+		},
+		{
+			"name": "Nathalian Heretic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/136_Nathalian Heretic.png"
+			}
+		},
+		{
+			"name": "Witch's Heir",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Wizard Noble",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/76_Witch's Heir.png"
+			}
+		},
+		{
+			"name": "Return to Childhood",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/51_Return to Childhood.png"
+			}
+		},
+		{
+			"name": "Tyrant's Mark",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/109_Tyrant's Mark.png"
+			}
+		},
+		{
+			"name": "Dragon-Kissed Princess",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/124_Dragon-Kissed Princess.png"
+			}
+		},
+		{
+			"name": "Unworthy Usurper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/112_Unworthy Usurper.png"
+			}
+		},
+		{
+			"name": "Search the Stories",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/53_Search the Stories.png"
+			}
+		},
+		{
+			"name": "Dubious Potion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/89_Dubious Potion.png"
+			}
+		},
+		{
+			"name": "Mighty Castle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/236_Mighty Castle.png"
+			}
+		},
+		{
+			"name": "Faerie Godmother",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/11_Faerie Godmother.png"
+			}
+		},
+		{
+			"name": "Queen of the Fair Folk",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Elf Noble",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/180_Queen of the Fair Folk.png"
+			}
+		},
+		{
+			"name": "Magical Loom",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/221_Magical Loom.png"
+			}
+		},
+		{
+			"name": "Miserly Dwarf-Lord",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Noble",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/135_Miserly Dwarf-Lord.png"
+			}
+		},
+		{
+			"name": "Royal Garden",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/241_Royal Garden.png"
+			}
+		},
+		{
+			"name": "Wise Owl",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Ouphe Bird Advisor",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/69_Wise Owl.png"
+			}
+		},
+		{
+			"name": "Demon of Temptation",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/88_Demon of Temptation.png"
+			}
+		},
+		{
+			"name": "Witch-Queen Yarag",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Hag Wizard Noble",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/216_Witch-Queen Yarag.png"
+			}
+		},
+		{
+			"name": "Impoverished Village",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/233_Impoverished Village.png"
+			}
+		},
+		{
+			"name": "Oppressed Kingdom",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/238_Oppressed Kingdom.png"
+			}
+		},
+		{
+			"name": "A School For Witches",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/242_A School For Witches.png"
+			}
+		},
+		{
+			"name": "Accursed Barony",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/228_Accursed Barony.png"
+			}
+		},
+		{
+			"name": "Untamed Wilderness",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/248_Untamed Wilderness.png"
+			}
+		},
+		{
+			"name": "Ouphe Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ouphe Bird",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/3_Ouphe Bird.png"
+			}
+		},
+		{
+			"name": "Human Wizard Noble",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Wizard Noble",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/6_Human Wizard Noble.png"
+			}
+		},
+		{
+			"name": "Pacifism",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/4_Pacifism.png"
+			}
+		},
+		{
+			"name": "Pious Farmer (Token)",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ouphe Mouse Peasant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/16_Pious Farmer (Token).png"
+			}
+		},
+		{
+			"name": "Noble",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Noble",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://PhilippeSaner.github.io/sets/ATR-files/img/2_Noble.png"
+			}
+		},
+	]
+
+[rare(1)]
+	5 Seek Excitement
+	5 King of Beasts
+	5 Slimy Frog
+	5 Equestrian Exemplar
+	5 Walking Cottage
+	5 Silverblade Baroness
+	5 Steal from the Rich
+	5 Stop the World
+	5 Vortheld Dragon
+	5 Entrancing Melody
+	5 Unwaking Dreamer
+	5 Descendant of Azor
+	5 Time Bubble
+	5 To the Moon!
+	5 All-Consuming Void
+	5 Contest for the Crown
+	5 Supreme Merchant
+	5 Royal Vizier
+	5 A Contract With Lightning
+	5 Journey of Self-Discovery
+	5 Treasure-Hoard Dragon
+	5 Stephen the Many-Headed
+	5 Green Knight
+	5 Jousting Grounds
+	5 Tarrasque
+	5 Cook and Eat
+	5 Enchanted Summer
+	5 Luton, Usurper King
+	5 Gaheris, Slayer of Heretics
+	5 Janjahar the All-Consuming
+	5 Kath, Young Adventurer
+	5 Mitling Mage
+	5 Nameless God of Crawling Things
+	5 Nathalie, Heretic Priestess
+	5 Uya, Phelddagrif Queen
+	5 Desolate Marsh
+	5 Slumbering Volcano
+	5 Picturesque Town
+	5 Lost Woods
+	5 Vasilisa Ilyina
+	5 Elusive Glatisant
+	5 Five Impossible Tasks
+	5 Dream Logic
+	5 Radiant Monarch
+	5 Farajo, the Mediator
+	5 Prince Valhon
+	5 Live Happily Ever After
+	5 Search for the Lamp
+	5 Punisher of Heresy
+	5 Macabre Groom
+	5 Suspicious Atoll
+	5 Curse of Vrek
+	5 Draconic Consort
+	5 Bride of the Nameless God
+	5 Sentence to Regret
+	5 A King's Ransom
+	5 Quest for the Holy Blade
+	5 Wishing Fish
+	5 Magnificent Heist
+	5 Merchant Prince
+	5 Holy Fire
+	5 Peasant Revolt
+	5 Witch's Heir
+	5 Return to Childhood
+	5 Tyrant's Mark
+	5 Queen of the Fair Folk
+	5 Demon of Temptation
+	5 Witch-Queen Yarag
+[uncommon(3)]
+	5 Tranquil Moment
+	5 Bane of Vortheld
+	5 Wicked Blade
+	5 To See the World
+	5 A Challenge!
+	5 Arrogant Prince
+	5 Sentence to Serenity
+	5 Cry Wolf
+	5 Cunning Fox
+	5 Cherished Armor
+	5 Deathbringer Faerie
+	5 Spidery Friends
+	5 Spirit of Summer
+	5 Hero of Many Stories
+	5 Flicker-Flitter
+	5 Gingerbread House
+	5 Goose That Lays Golden Eggs
+	5 Gustbreath Wolf
+	5 Impulsive Rake
+	5 Innocent Princess
+	5 Journey to the Underworld
+	5 Azor's Curse
+	5 Master Poisoner
+	5 Mechanical Girl
+	5 Chivalrous Mantis
+	5 Morossian Viper
+	5 Witch's Doom
+	5 New Adventures
+	5 Go Utterly Mad
+	5 Fantasian Giant
+	5 Overprotective Wife
+	5 Preacher of Love
+	5 Spoiled Heir
+	5 Oathbound of Gaheris
+	5 Princess of the Sea
+	5 Dragon Raid
+	5 Speak the True Name
+	5 Stealing Dragon Eggs
+	5 Witch's Throne
+	5 The Power of Love
+	5 Travelling Salesman
+	5 Turn to Frog
+	5 Undoing the Wizard's Work
+	5 Unhappy Ending
+	5 Wedded Warriors
+	5 Guardian of the Endless Forest
+	5 Witch's Enforcer
+	5 Curious Egg
+	5 You Shall Not Pass
+	5 Smallest Astrologist
+	5 Mirror-Maiden
+	5 Uyavian Midwife
+	5 Needless Crusade
+	5 Pious Farmer
+	5 Sword of Kings
+	5 Vortheld Pegasus
+	5 Command Flame
+	5 Mitling House
+	5 Declare Dominance
+	5 Courtly Lover
+	5 Silent Knight
+	5 Coven Leader
+	5 Gruff Goat
+	5 Wicked Stepfather
+	5 Ugly Duckling
+	5 Meaningless Violence
+	5 Dark Lord's Orders
+	5 Tranquility
+	5 Skinchanger's Talisman
+	5 Lady of the Lake
+	5 Nathalian Heretic
+	5 Unworthy Usurper
+	5 Mighty Castle
+	5 Faerie Godmother
+	5 Royal Garden
+	5 Impoverished Village
+	5 Oppressed Kingdom
+	5 A School For Witches
+	5 Accursed Barony
+	5 Untamed Wilderness
+[common(10)]
+	5 Animated Marionette
+	5 Apprentice Witch
+	5 Avarellian Elf
+	5 Uyavian Paladin
+	5 Sentence to Isolation
+	5 Azorian Sky-Priest
+	5 Beloved Queen
+	5 Merciful Caladrius
+	5 Skullcrunching People-Eater
+	5 Childcatcher Witch
+	5 Clever Maidservant
+	5 Filton Giant
+	5 Unburden
+	5 Back to Back
+	5 Court Astrologer
+	5 Reduce to Ruins
+	5 Overconfident Alchemist
+	5 Eager Adventurer
+	5 Morossian Giant
+	5 Egg Man
+	5 Elderlify
+	5 Elf-Child
+	5 Farajo's Intervention
+	5 Hardhearted Oaf
+	5 Song of Summer
+	5 Unexpected Adventure
+	5 Man-Eating Snail
+	5 Gift of Paradise
+	5 Housecat Knight
+	5 Invigorating Drink
+	5 Azorian Knight
+	5 Larger Than Life
+	5 Magical Mirror
+	5 Maiden of the Forest
+	5 Manflinger
+	5 Arrogant Blackguard
+	5 Mesa Unicorn
+	5 Noble Steed
+	5 Ornery Leprechaun
+	5 Faebound Mage
+	5 Radiant Fountain
+	5 Royal Edict
+	5 Seek Faerieland
+	5 Setting Fires
+	5 Slay the Monster
+	5 Retired Adventurer
+	5 Disorder and Confusion
+	5 Wander in Death
+	5 Sprinkledust Pixie
+	5 Spiderback Lizard
+	5 Terramorphic Expanse
+	5 Incompetent Despot
+	5 Seek Your Fortune
+	5 Underbridge Troll
+	5 Valiant Protector
+	5 Vicious Manticore
+	5 Walk the Faerie Path
+	5 Webweave Widow
+	5 Whirlwind Romance
+	5 Witch's Broomstick
+	5 Wolf of the Endless Forest
+	5 Writhing Rotworms
+	5 Yaragi Skinchanger
+	5 Witch-Baroness
+	5 Tranquil Thicket
+	5 Forgotten Cave
+	5 Barren Moor
+	5 Lonely Sandbar
+	5 Secluded Steppe
+	5 Witch's Denial
+	5 Yaragi Knight
+	5 Blight Egg
+	5 Crowd of Peasants
+	5 King of Thieves
+	5 Explosive Potion
+	5 Sentence to Honesty
+	5 Disguised Wolf
+	5 Disproportionate Punishment
+	5 Spirit of Winter
+	5 Beeback Paladin
+	5 Morossian Curse-Breaker
+	5 Ingenious Fool
+	5 Dub
+	5 Valor of the Faithful
+	5 Befriend
+	5 Good Luck Charm
+	5 Aggressive Instinct
+	5 Treacherous Scorpion
+	5 Deceitful Kelpie
+	5 Sleep Forever
+	5 Costly Plunder
+	5 Goldenplate Paladin
+	5 Test of Character
+	5 Giant Slayer
+	5 Cavalier Cavalier
+	5 Dragon-Kissed Princess
+	5 Search the Stories
+	5 Dubious Potion
+	5 Magical Loom
+	5 Miserly Dwarf-Lord
+	5 Wise Owl
