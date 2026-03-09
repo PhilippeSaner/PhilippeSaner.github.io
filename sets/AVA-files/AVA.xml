@@ -1,0 +1,5639 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>AVA</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-03-09</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Animated Marionette</name>
+			<text>{3}: Transform Animated Marionette. Activate only as a sorcery.
+---
+(Back): Humanized Sorceress</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/217_Animated Marionette_front.jpg" num="217a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Humanized Sorceress</related>
+		</card>
+		<card>
+			<name>Humanized Sorceress</name>
+			<text>{2}: Humanized Sorceress gets +1/+1 until end of turn.
+---
+(Front): Animated Marionette</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/217_Animated Marionette_back.jpg" num="217b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Animated Marionette</related>
+		</card>
+		<card>
+			<name>Apprentice Witch</name>
+			<text>Prowess</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/39_Apprentice Witch.jpg" num="39">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avarellian Elf</name>
+			<text>Ward {2}</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/155_Avarellian Elf.jpg" num="155">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uyavian Paladin</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Lifelink
+Creatures paired with Uyavian Paladin have lifelink.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/32_Uyavian Paladin.jpg" num="32">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Rabbit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentence to Isolation</name>
+			<text>Enchant opponent
+At the beginning of enchanted player&apos;s upkeep, each of their opponents gains 2 life.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/26_Sentence to Isolation.jpg" num="26">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Azorian Sky-Priest</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Flying
+Creatures paired with Azorian Sky-Priest have flying.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/1_Azorian Sky-Priest.jpg" num="1">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beloved Queen</name>
+			<text>When Beloved Queen enters, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/4_Beloved Queen.jpg" num="4">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Squirrel Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Moment</name>
+			<text>Choose one —
+• Destroy target artifact or enchantment.
+• Return target artifact or enchantment card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/30_Tranquil Moment.jpg" num="30">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Merciful Caladrius</name>
+			<text>Flying
+When Merciful Caladrius enters, you gain 3 life.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/19_Merciful Caladrius.jpg" num="19">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skullcrunching People-Eater</name>
+			<text>Sacrifice another creature: Put a +1/+1 counter on Skullcrunching People-Eater and you gain 2 life. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/102_Skullcrunching People-Eater.jpg" num="102">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Childcatcher Witch</name>
+			<text>{T}, Sacrifice another creature: Transform Childcatcher Witch. Activate only as a sorcery.
+---
+(Back): Shadowmaster Hag</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/83_Childcatcher Witch_front.jpg" num="83a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Shadowmaster Hag</related>
+		</card>
+		<card>
+			<name>Shadowmaster Hag</name>
+			<text>Lifelink
+---
+(Front): Childcatcher Witch</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/83_Childcatcher Witch_back.jpg" num="83b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Hag Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Childcatcher Witch</related>
+		</card>
+		<card>
+			<name>Clever Maidservant</name>
+			<text>Clever Maidservant can&apos;t be blocked as long as it&apos;s attacking a Quest.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/40_Clever Maidservant.jpg" num="40">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Filton Giant</name>
+			<text>{2}{U}{U}: Filton Giant gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/45_Filton Giant.jpg" num="45">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unburden</name>
+			<text>Target player discards two cards.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/110_Unburden.jpg" num="110">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Back to Back</name>
+			<text>Target creature gets +2/+2 until end of turn. Each creature paired with it also gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/116_Back to Back.jpg" num="116">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Court Astrologer</name>
+			<text>When Court Astrologer enters, scry 2.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/41_Court Astrologer.jpg" num="41">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bane of Vortheld</name>
+			<text>This spell costs {1}{B} less to cast for each creature with deathtouch you control.
+Flying, deathtouch</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/80_Bane of Vortheld.jpg" num="80">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cockatrice</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reduce to Ruins</name>
+			<text>Destroy target artifact or land.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/142_Reduce to Ruins.jpg" num="142">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wicked Blade</name>
+			<text>Equipped creature gets +2/+0 and has first strike.
+Equip creature with deathtouch {0}
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/226_Wicked Blade.jpg" num="226">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Overconfident Alchemist</name>
+			<text>When Overconfident Alchemist dies, it deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/138_Overconfident Alchemist.jpg" num="138">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Mole Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eager Adventurer</name>
+			<text>Eager Adventurer has haste as long as you control a Quest.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/126_Eager Adventurer.jpg" num="126">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morossian Giant</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Trample
+Creatures paired with Morossian Giant have trample.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/177_Morossian Giant.jpg" num="177">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Egg Man</name>
+			<text>Trample, haste</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/127_Egg Man.jpg" num="127">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Egg Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elderlify</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-2.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/90_Elderlify.jpg" num="90">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elf-Child</name>
+			<text>Ward {1}
+When Elf-Child attacks, transform it.
+---
+(Back): Freedom-Lover</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/163_Elf-Child_front.jpg" num="163a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Elf Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Freedom-Lover</related>
+		</card>
+		<card>
+			<name>Freedom-Lover</name>
+			<text>Ward—Pay 1 life
+---
+(Front): Elf-Child</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/163_Elf-Child_back.jpg" num="163b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Elf-Child</related>
+		</card>
+		<card>
+			<name>Farajo&apos;s Intervention</name>
+			<text>Prevent all combat damage that would be dealt to creatures, players, or planeswalkers this turn.
+Cycling {2}</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/12_Farajo&apos;s Intervention.jpg" num="12">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hardhearted Oaf</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Menace
+Creatures paired with Hardhearted Oaf have menace.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/130_Hardhearted Oaf.jpg" num="130">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Song of Summer</name>
+			<text>Song of Summer deals 3 damage to target creature or Quest.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/146_Song of Summer.jpg" num="146">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unexpected Adventure</name>
+			<text>Return target creature or Quest to its owner&apos;s hand. That player can&apos;t cast spells with the same name as that permanent until your next turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/66_Unexpected Adventure.jpg" num="66">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Man-Eating Snail</name>
+			<text>Man-Eating Snail enters tapped.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/95_Man-Eating Snail.jpg" num="95">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snail</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gift of Paradise</name>
+			<text>Enchant land
+When Gift of Paradise enters, you gain 3 life.
+Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/167_Gift of Paradise.jpg" num="167">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Housecat Knight</name>
+			<text>When Housecat Knight enters, create a 0/1 white Human creature token.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/15_Housecat Knight.jpg" num="15">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Cat Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invigorating Drink</name>
+			<text>Tap any number of untapped creatures you control and put a +1/+1 counter on each of them. You gain 7 life.
+Cycling {G} ({G}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/172_Invigorating Drink.jpg" num="172">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Knight of the Holy City</name>
+			<text>Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/17_Knight of the Holy City.jpg" num="17">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Larger Than Life</name>
+			<text>Target creature gets +4/+4 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/174_Larger Than Life.jpg" num="174">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magical Mirror</name>
+			<text>Defender
+{2}, {T}: Scry 1.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/222_Magical Mirror.jpg" num="222">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maiden of the Forest</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+{T}: Add one mana of any color.
+Creatures paired with Maiden of the Forest have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/175_Maiden of the Forest.jpg" num="175">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Manflinger</name>
+			<text>Whenever Manflinger attacks, you may have another target attacking creature get +1/+0 and gain flying. If you do, sacrifice that creature at end of combat.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/134_Manflinger.jpg" num="134">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arrogant Blackguard</name>
+			<text>When Arrogant Blackguard enters, if you control another Knight, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/78_Arrogant Blackguard.jpg" num="78">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mesa Unicorn</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/20_Mesa Unicorn.jpg" num="20">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noble Steed</name>
+			<text>Vigilance
+Whenever Noble Steed attacks or blocks, target Knight you control gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/21_Noble Steed.jpg" num="21">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ornery Leprechaun</name>
+			<text>When Ornery Leprechaun enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/179_Ornery Leprechaun.jpg" num="179">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faebound Mage</name>
+			<text>When Faebound Mage dies, create a 1/1 blue Faerie Wizard creature token with flying.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/91_Faebound Mage.jpg" num="91">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Radiant Fountain</name>
+			<text>When Radiant Fountain enters, you gain 2 life.
+{T}: Add {C}.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/240_Radiant Fountain.jpg" num="240">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Royal Edict</name>
+			<text>Each opponent sacrifices a creature with the greatest power among creatures they control.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/99_Royal Edict.jpg" num="99">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seek Faerieland</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Seek Faerieland has no quest counters on it, sacrifice it and create two 1/1 blue Faerie Wizard creature tokens with flying.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/54_Seek Faerieland.jpg" num="54">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Setting Fires</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Setting Fires has no quest counters on it, sacrifice it and it deals 4 damage to any target.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/145_Setting Fires.jpg" num="145">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slay the Monster</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Slay the Monster has no quest counters on it, sacrifice it and destroy target creature.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/103_Slay the Monster.jpg" num="103">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Retired Adventurer</name>
+			<text>When Retired Adventurer enters, you may pay {1}. If you do, create a Treasure token.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/98_Retired Adventurer.jpg" num="98">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disorder and Confusion</name>
+			<text>Up to three target creatures can&apos;t block this turn.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/121_Disorder and Confusion.jpg" num="121">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wander in Death</name>
+			<text>Return up to two target creature cards from your graveyard to your hand.
+Cycling {2}</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/113_Wander in Death.jpg" num="113">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sprinkledust Pixie</name>
+			<text>Flying
+Whenever Sprinkledust Pixie attacks, another target attacking creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/60_Sprinkledust Pixie.jpg" num="60">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spiderback Lizard</name>
+			<text>When Spiderback Lizard enters, create a 1/2 green Ouphe Spider creature token with reach.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/181_Spiderback Lizard.jpg" num="181">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terramorphic Expanse</name>
+			<text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/246_Terramorphic Expanse.jpg" num="246">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Incompetent Despot</name>
+			<text>When Incompetent Despot dies, create a 4/4 white Noble creature token.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/92_Incompetent Despot.jpg" num="92">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>To See the World</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When To See the World has no quest counters on it, sacrifice it and draw three cards.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/62_To See the World.jpg" num="62">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seek Your Fortune</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Seek Your Fortune has no quest counters on it, sacrifice it and discard up to two cards. Draw that many cards and create that many Treasure tokens.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/144_Seek Your Fortune.jpg" num="144">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Underbridge Troll</name>
+			<text>{1}{G}: Underbridge Troll gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/187_Underbridge Troll.jpg" num="187">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valiant Protector</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Vigilance
+Creatures paired with Valiant Protector have vigilance.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/33_Valiant Protector.jpg" num="33">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vicious Manticore</name>
+			<text>As long as it&apos;s your turn, Vicious Manticore has first strike.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/151_Vicious Manticore.jpg" num="151">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Manticore</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Walk the Faerie Path</name>
+			<text>Target creature can&apos;t be blocked this turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/68_Walk the Faerie Path.jpg" num="68">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Webweave Widow</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Reach
+Creatures paired with Webweave Widow have reach.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/189_Webweave Widow.jpg" num="189">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whirlwind Romance</name>
+			<text>Untap target unpaired creature and gain control of it until end of turn. It gains haste until end of turn.
+Cycling {2}</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/153_Whirlwind Romance.jpg" num="153">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Witch&apos;s Broomstick</name>
+			<text>Equipped creature gets +1/+0 and has flying.
+Equip Wizard {0}
+Equip {2}</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/72_Witch&apos;s Broomstick.jpg" num="72">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wolf of the Endless Forest</name>
+			<text>Wolf of the Endless Forest can&apos;t be blocked by creatures with power 2 or less.
+Cycling {G} ({G}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/190_Wolf of the Endless Forest.jpg" num="190">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Writhing Rotworms</name>
+			<text>Deathtouch</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/115_Writhing Rotworms.jpg" num="115">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Worm</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yaragi Skinchanger</name>
+			<text>{3}{G}{G}: Transform Yaragi Skinchanger.
+---
+(Back): Bearform Skinchanger</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/191_Yaragi Skinchanger_front.jpg" num="191a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bearform Skinchanger</related>
+		</card>
+		<card>
+			<name>Bearform Skinchanger</name>
+			<text>Trample
+---
+(Front): Yaragi Skinchanger</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/191_Yaragi Skinchanger_back.jpg" num="191b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bear Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Yaragi Skinchanger</related>
+		</card>
+		<card>
+			<name>Witch-Baroness</name>
+			<text>Prowess
+When Witch-Baroness enters, return target creature an opponent controls to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/71_Witch-Baroness.jpg" num="71">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hag Wizard Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Thicket</name>
+			<text>Tranquil Thicket enters tapped.
+{T}: Add {G}.
+Cycling {G} ({G}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/247_Tranquil Thicket.jpg" num="247">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Cave</name>
+			<text>Forgotten Cave enters tapped.
+{T}: Add {R}.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/231_Forgotten Cave.jpg" num="231">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Barren Moor</name>
+			<text>Barren Moor enters tapped.
+{T}: Add {B}.
+Cycling {B} ({B}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/229_Barren Moor.jpg" num="229">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lonely Sandbar</name>
+			<text>Lonely Sandbar enters tapped.
+{T}: Add {U}.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/234_Lonely Sandbar.jpg" num="234">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Secluded Steppe</name>
+			<text>Secluded Steppe enters tapped.
+{T}: Add {W}.
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/243_Secluded Steppe.jpg" num="243">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Witch&apos;s Denial</name>
+			<text>Counter target spell unless its controller pays {1}. If that player is cursed, counter that spell instead.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/73_Witch&apos;s Denial.jpg" num="73">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Yaragi Knight</name>
+			<text>As long as a player is enchanted, Yaragi Knight has vigilance and lifelink.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/37_Yaragi Knight.jpg" num="37">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blight Egg</name>
+			<text>When Blight Egg dies, create two 1/1 black Insect creature tokens.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/82_Blight Egg.jpg" num="82">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Egg</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crowd of Peasants</name>
+			<text>Whenever you gain life, put a +1/+1 counter on Crowd of Peasants.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/159_Crowd of Peasants.jpg" num="159">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>King of Thieves</name>
+			<text>When King of Thieves enters, create a Treasure token. Each opponent sacrifices a Treasure.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/47_King of Thieves.jpg" num="47">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explosive Potion</name>
+			<text>Explosive Potion deals 3 damage to each opponent, each planeswalker an opponent controls, and each Quest you control.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/128_Explosive Potion.jpg" num="128">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>A Challenge!</name>
+			<text>Target creature you control fights target creature with the greatest power among creatures your opponents control.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/157_A Challenge!.jpg" num="157">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arrogant Prince</name>
+			<text>{B}, Tap an untapped Wizard you control: Transform Arrogant Prince. Activate only as a sorcery.
+---
+(Back): Accursed Beast</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/79_Arrogant Prince_front.jpg" num="79a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Accursed Beast</related>
+		</card>
+		<card>
+			<name>Accursed Beast</name>
+			<text>Menace
+At the beginning of your upkeep, you lose 1 life.
+---
+(Front): Arrogant Prince</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/79_Arrogant Prince_back.jpg" num="79b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Beast Horror Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Arrogant Prince</related>
+		</card>
+		<card>
+			<name>Seek Excitement</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Seek Excitement has no quest counters on it, sacrifice it. After your next end of combat step, untap all creatures you control, then there is an additional combat phase.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/143_Seek Excitement.jpg" num="143">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sentence to Serenity</name>
+			<text>Enchant opponent
+Creatures enchanted player controls gets -1/-0.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/214_Sentence to Serenity.jpg" num="214">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cry Wolf</name>
+			<text>Creatures you control get +1/+1 until end of turn. Untap them unless there&apos;s a card named Cry Wolf in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/6_Cry Wolf.jpg" num="6">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cunning Fox</name>
+			<text>Whenever Cunning Fox attacks, target creature blocks target attacking creature this turn if able.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/160_Cunning Fox.jpg" num="160">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Fox Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentence to Honesty</name>
+			<text>Enchant opponent
+When Sentence to Honesty enters, draw a card.
+Enchanted player plays with their hand revealed.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/55_Sentence to Honesty.jpg" num="55">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cherished Armor</name>
+			<text>Equipped creature gets +2/+2.
+When equipped creature dies, you may transform Cherished Armor.
+Equip {1}
+---
+(Back): Haunted Armor</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/218_Cherished Armor_front.jpg" num="218a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Haunted Armor</related>
+		</card>
+		<card>
+			<name>Haunted Armor</name>
+			<text>Flying
+---
+(Front): Cherished Armor</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/218_Cherished Armor_back.jpg" num="218b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Cherished Armor</related>
+		</card>
+		<card>
+			<name>Deathbringer Faerie</name>
+			<text>Flash
+Flying
+When Deathbringer Faerie enters, up to one target creature gets -X/-0 or -0/-X until end of turn, where X is the number of Wizards you control.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/194_Deathbringer Faerie.jpg" num="194">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disguised Wolf</name>
+			<text>{4}{G}{G}: Transform Disguised Wolf.
+---
+(Back): Ferocious Wolf</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/162_Disguised Wolf_front.jpg" num="162a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ferocious Wolf</related>
+		</card>
+		<card>
+			<name>Ferocious Wolf</name>
+			<text>When this creature transforms into Ferocious Wolf, it gets +2/+2 until end of turn.
+---
+(Front): Disguised Wolf</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/162_Disguised Wolf_back.jpg" num="162b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Ouphe Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Disguised Wolf</related>
+		</card>
+		<card>
+			<name>Disproportionate Punishment</name>
+			<text>Disproportionate Punishment deals 5 damage to target tapped creature.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/7_Disproportionate Punishment.jpg" num="7">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spidery Friends</name>
+			<text>Create two 1/2 green Ouphe Spider creature tokens with reach.
+Basic Forestcycling {0} (Discard this card: Search your library for a basic Forest card, reveal it, put it into your hand, then shuffle.)
+If you control a land, you can&apos;t cycle Spidery Friends.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/182_Spidery Friends.jpg" num="182">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirit of Summer</name>
+			<text>Haste
+When Spirit of Summer dies while attacking, it deals 3 damage to the permanent or player it was attacking.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/147_Spirit of Summer.jpg" num="147">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hero of Many Stories</name>
+			<text>Hero of Many Stories attacks each combat if able.
+Questcycling {1}{R} ({1}{R}, Discard this card: Search your library for a Quest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/131_Hero of Many Stories.jpg" num="131">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flicker-Flitter</name>
+			<text>Flash
+Flying
+When Flicker-Flitter enters, you may exile target untapped creature, then return it to the battlefield tapped under its owner&apos;s control.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/46_Flicker-Flitter.jpg" num="46">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gingerbread House</name>
+			<text>{T}: Add {C}.
+{3}, {T}, Sacrifice Gingerbread House: You gain 3 life. Tap any number of untapped creatures you control and put a +1/+1 counter on each of them. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/232_Gingerbread House.jpg" num="232">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Goose That Lays Golden Eggs</name>
+			<text>Flying
+{T}: Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/197_Goose That Lays Golden Eggs.jpg" num="197">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gustbreath Wolf</name>
+			<text>Reach
+When Gustbreath Wolf enters, destroy target nonbasic land or creature with flying.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/171_Gustbreath Wolf.jpg" num="171">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Wolf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impulsive Rake</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Paired creatures you control have haste.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/199_Impulsive Rake.jpg" num="199">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Innocent Princess</name>
+			<text>Protection from creatures</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/16_Innocent Princess.jpg" num="16">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Journey to the Underworld</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Journey to the Underworld has no quest counters on it, sacrifice it and return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/93_Journey to the Underworld.jpg" num="93">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>King of Beasts</name>
+			<text>Other Ouphes you control get +1/+1.
+King of Beasts gets +1/+1 for each other Ouphe you control.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/202_King of Beasts.jpg" num="202">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Cat Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Azor&apos;s Curse</name>
+			<text>Enchant opponent
+At the beginning of enchanted player&apos;s upkeep, each of their opponents creates a 1/1 black Mercenary creature token.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/2_Azor&apos;s Curse.jpg" num="2">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Master Poisoner</name>
+			<text>Deathtouch
+If a creature with deathtouch you control would deal damage to a player or planeswalker, it deals that much damage plus two instead.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/96_Master Poisoner.jpg" num="96">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mechanical Girl</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Tap an untapped creature paired with Mechanical Girl: Put a +1/+1 counter on Mechanical Girl.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/223_Mechanical Girl.jpg" num="223">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chivalrous Mantis</name>
+			<text>Vigilance, trample</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/158_Chivalrous Mantis.jpg" num="158">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Insect Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morossian Viper</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Deathtouch
+Creatures paired with Morossian Viper have deathtouch.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/178_Morossian Viper.jpg" num="178">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witch&apos;s Doom</name>
+			<text>Enchant creature
+You control enchanted creature.
+Enchanted creature is a Beast with base power and toughness 6/6. It loses all abilities and all other creature types.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/74_Witch&apos;s Doom.jpg" num="74">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>New Adventures</name>
+			<text>Search your graveyard, hand, and library for up to three Quest cards with different names and put them onto the battlefield. Then shuffle.
+Cycling {2}</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/209_New Adventures.jpg" num="209">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Go Utterly Mad</name>
+			<text>Enchant creature
+Enchanted creature has haste.
+At the beginning of combat on each player&apos;s turn, that player untaps enchanted creature and gains control of it. (It can&apos;t marry.)</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/129_Go Utterly Mad.jpg" num="129">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fantasian Giant</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Trample
+As long as Fantasian Giant is paired with a creature, it gets +X/+X, where X is that creature&apos;s power.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/165_Fantasian Giant.jpg" num="165">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overprotective Wife</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Sacrifice Overprotective Wife: Each creature paired with Overprotective Wife gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/22_Overprotective Wife.jpg" num="22">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Preacher of Love</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Paired creatures you control get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/212_Preacher of Love.jpg" num="212">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spoiled Heir</name>
+			<text>Spoiled Heir can&apos;t block.
+When another Noble you control dies, transform Spoiled Heir.
+---
+(Back): Fearsome Tyrant</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/105_Spoiled Heir_front.jpg" num="105a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Fearsome Tyrant</related>
+		</card>
+		<card>
+			<name>Fearsome Tyrant</name>
+			<text>Creatures you control have menace.
+---
+(Front): Spoiled Heir</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/105_Spoiled Heir_back.jpg" num="105b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Spoiled Heir</related>
+		</card>
+		<card>
+			<name>Oathbound of Gaheris</name>
+			<text>First strike, haste
+When Oathbound of Gaheris enters, Knights you control get +1/+0 and gain your choice of lifelink, vigilance, or menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/210_Oathbound of Gaheris.jpg" num="210">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Princess of the Sea</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+At the beginning of your upkeep, if Princess of the Sea is paired with a non-Merfolk creature, transform it.
+---
+(Back): Queen of the Land</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/50_Princess of the Sea_front.jpg" num="50a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Queen of the Land</related>
+		</card>
+		<card>
+			<name>Queen of the Land</name>
+			<text>At the beginning of your upkeep, transform Queen of the Land unless it&apos;s paired.
+Creatures paired with Queen of the Land can&apos;t be blocked.
+---
+(Front): Princess of the Sea</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/50_Princess of the Sea_back.jpg" num="50b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Princess of the Sea</related>
+		</card>
+		<card>
+			<name>Dragon Raid</name>
+			<text>Dragon Raid deals 3 damage divided as you choose among one, two, or three targets.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/123_Dragon Raid.jpg" num="123">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Slimy Frog</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+At the beginning of your upkeep, if Slimy Frog is paired with a Noble, transform it.
+---
+(Back): Beautiful Princess</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/104_Slimy Frog_front.jpg" num="104a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Frog Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Beautiful Princess</related>
+		</card>
+		<card>
+			<name>Beautiful Princess</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Creatures paired with Beautiful Princess get +2/+2.
+---
+(Front): Slimy Frog</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/104_Slimy Frog_back.jpg" num="104b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Slimy Frog</related>
+		</card>
+		<card>
+			<name>Spirit of Winter</name>
+			<text>{T}: Untap target land you control. Put a stun counter on it.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/59_Spirit of Winter.jpg" num="59">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Speak the True Name</name>
+			<text>Counter target spell.
+Basic Islandcycling {0} (Discard this card: Search your library for a basic Island card, reveal it, put it into your hand, then shuffle.)
+If you control a land, you can&apos;t cycle Speak the True Name.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/58_Speak the True Name.jpg" num="58">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stealing Dragon Eggs</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Stealing Dragon Eggs has no quest counters on it, sacrifice it and create a 4/4 red Dragon creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/148_Stealing Dragon Eggs.jpg" num="148">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Witch&apos;s Throne</name>
+			<text>{T}: Add one mana of any color.
+{6}, {T}: Transform Witch&apos;s Throne.
+---
+(Back): Liberated Sphinx</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/227_Witch&apos;s Throne_front.jpg" num="227a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Liberated Sphinx</related>
+		</card>
+		<card>
+			<name>Liberated Sphinx</name>
+			<text>Flying, vigilance
+---
+(Front): Witch&apos;s Throne</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/227_Witch&apos;s Throne_back.jpg" num="227b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Witch&apos;s Throne</related>
+		</card>
+		<card>
+			<name>The Power of Love</name>
+			<text>This spell costs {2} less to cast if it targets a creature card with marriage or you control an unpaired creature with marriage.
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/23_The Power of Love.jpg" num="23">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Travelling Salesman</name>
+			<text>When Travelling Salesman enters, choose one —
+• You draw a card and you lose 1 life.
+• You draw two cards and you lose 4 life.
+• You draw three cards and you lose 9 life.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/108_Travelling Salesman.jpg" num="108">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Cat Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turn to Frog</name>
+			<text>Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/64_Turn to Frog.jpg" num="64">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Undoing the Wizard&apos;s Work</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Undoing the Wizard&apos;s Work has no quest counters on it, sacrifice it and put up to one target nonland permanent into its owner&apos;s library second from the top.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/65_Undoing the Wizard&apos;s Work.jpg" num="65">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unhappy Ending</name>
+			<text>Exile target creature or Quest.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/111_Unhappy Ending.jpg" num="111">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Equestrian Exemplar</name>
+			<text>When Equestrian Exemplar enters, you may exile another creature you control until it leaves the battlefield.
+Equestrian Exemplar gets +2/+2 as long as there&apos;s a card exiled with it. It has vigilance if that card is a Horse, lifelink if it&apos;s a Unicorn, and flying if it&apos;s a Pegasus.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/9_Equestrian Exemplar.jpg" num="9">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Walking Cottage</name>
+			<text>{T}: Add {C}.
+{1}: Walking Cottage becomes a 2/2 Construct artifact creature until end of turn. It&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/249_Walking Cottage.jpg" num="249">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wedded Warriors</name>
+			<text>Double strike
+Wedded Warriors can block an additional creature.
+When Wedded Warriors dies, return it to the battlefield transformed.
+---
+(Back): War Widow</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/152_Wedded Warriors_front.jpg" num="152a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">War Widow</related>
+		</card>
+		<card>
+			<name>War Widow</name>
+			<text>First strike
+War Widow attacks each combat if able.
+---
+(Front): Wedded Warriors</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/152_Wedded Warriors_back.jpg" num="152b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Wedded Warriors</related>
+		</card>
+		<card>
+			<name>Guardian of the Endless Forest</name>
+			<text>Reach, deathtouch, ward {3}
+If you control another creature with deathtouch, Guardian of the Endless Forest has vigilance and haste.
+Cycling {G} ({G}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/170_Guardian of the Endless Forest.jpg" num="170">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witch&apos;s Enforcer</name>
+			<text>Hexproof from cursed players
+Witch&apos;s Enforcer can&apos;t be blocked as long as the defending player is cursed.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/75_Witch&apos;s Enforcer.jpg" num="75">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curious Egg</name>
+			<text>Defender
+Prevent all combat damage that Curious Egg would deal.
+At the beginning of your upkeep, put a +1/+1 counter on Curious Egg. Then you may transform it.
+---
+(Back): Newborn Glatisant</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/120_Curious Egg_front.jpg" num="120a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Beast Chimera Egg</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Newborn Glatisant</related>
+		</card>
+		<card>
+			<name>Newborn Glatisant</name>
+			<text>Trample
+Newborn Glatisant attacks each combat if able.
+---
+(Front): Curious Egg</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/120_Curious Egg_back.jpg" num="120b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Beast Chimera</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Curious Egg</related>
+		</card>
+		<card>
+			<name>You Shall Not Pass</name>
+			<text>Cast You Shall Not Pass only during an opponent&apos;s turn.
+Target creature gets +3/+3 until end of turn. It can block any number of creatures this turn.
+Cycling {W}</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/38_You Shall Not Pass.jpg" num="38">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silverblade Baroness</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Double strike, vigilance, lifelink
+Creatures paired with Silverblade Baroness have double strike, vigilance, and lifelink.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/27_Silverblade Baroness.jpg" num="27">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steal from the Rich</name>
+			<text>If target opponent controls more lands than you, create a number of Treasure tokens equal to the difference.
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/28_Steal from the Rich.jpg" num="28">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stop the World</name>
+			<text>Tap all creatures and put time counters on them. They don&apos;t untap during their controllers&apos; untap steps for as long as they have time counters on them.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/29_Stop the World.jpg" num="29">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vortheld Dragon</name>
+			<text>Flying
+When Vortheld Dragon enters, you may exile another target creature or artifact until Vortheld Dragon leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/35_Vortheld Dragon.jpg" num="35">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Entrancing Melody</name>
+			<text>Gain control of target creature with mana value X.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/44_Entrancing Melody.jpg" num="44">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smallest Astrologist</name>
+			<text>{T}, Tap an untapped Wizard you control: Scry 2, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/57_Smallest Astrologist.jpg" num="57">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Mouse Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unwaking Dreamer</name>
+			<text>Flying
+{2}, Return Unwaking Dreamer to its owner&apos;s hand: Create a 5/5 blue Illusion creature token with flying and &quot;When this creature becomes the target of a spell, sacrifice it.&quot;</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/67_Unwaking Dreamer.jpg" num="67">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirror-Maiden</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+{1}{U}: Mirror-Maiden becomes a copy of target creature paired with it. It gains marriage and this ability. It&apos;s still named Mirror-Maiden.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/49_Mirror-Maiden.jpg" num="49">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Descendant of Azor</name>
+			<text>Flying
+When Descendant of Azor enters, an opponent looks at the top three cards of your library and tells you their combined mana value and how many are of each color. Choose three card names, then exile those cards and put each with one of the chosen names into your hand.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/43_Descendant of Azor.jpg" num="43">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Time Bubble</name>
+			<text>Take an extra turn after this one. During that turn, your opponents and permanents your opponents control have protection from you.
+Exile Time Bubble.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/61_Time Bubble.jpg" num="61">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>To the Moon!</name>
+			<text>Prevent all damage that would be dealt to To the Moon! by sources without flying.
+When To the Moon! has no quest counters on it, transform it.
+Cycling {U}
+---
+(Back): Elua, Moon Goddess</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/63_To the Moon!_front.jpg" num="63a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>8</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Elua, Moon Goddess</related>
+		</card>
+		<card>
+			<name>Elua, Moon Goddess</name>
+			<text>Flying, hexproof, indestructible
+You may look at each player&apos;s hand and library.
+When Elua leaves the battlefield, each player shuffles.
+---
+(Front): To the Moon!</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/63_To the Moon!_back.jpg" num="63b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">To the Moon!</related>
+		</card>
+		<card>
+			<name>All-Consuming Void</name>
+			<text>At the beginning of each player&apos;s upkeep, that player exiles two permanents they control. If they can&apos;t, they lose the game.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/77_All-Consuming Void.jpg" num="77">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Contest for the Crown</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Contest for the Crown has no quest counters on it, exile it and return it to the battlefield transformed. Then create two tapped 2/2 black Zombie creature tokens.
+---
+(Back): Dark Lord of Vrek</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/84_Contest for the Crown_front.jpg" num="84a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Dark Lord of Vrek</related>
+		</card>
+		<card>
+			<name>Dark Lord of Vrek</name>
+			<text>Enchant creature you control
+Enchanted creature gets +2/+1 and is a Noble in addition to its other types.
+When enchanted creature leaves the battlefield, return Dark Lord of Vrek to the battlefield. (As a Quest.)
+---
+(Front): Contest for the Crown</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/84_Contest for the Crown_back.jpg" num="84b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Contest for the Crown</related>
+		</card>
+		<card>
+			<name>Supreme Merchant</name>
+			<text>Sacrifice a creature: Gain 3 life.
+Pay 4 life: Draw a card.
+Discard a card: Add {B}.
+{B}{B}: Create a tapped 1/1 black Mercenary creature token.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/106_Supreme Merchant.jpg" num="106">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Vizier</name>
+			<text>When Royal Vizier enters, create a 5/5 black Demon creature token with flying.
+Sacrifice a Noble: Transform Royal Vizier.
+---
+(Back): Dictatorial Diabolist</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/100_Royal Vizier_front.jpg" num="100a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Dictatorial Diabolist</related>
+		</card>
+		<card>
+			<name>Dictatorial Diabolist</name>
+			<text>Menace
+At the beginning of your upkeep, sacrifice a non-Demon creature and create a 5/5 black Demon creature token with flying.
+---
+(Front): Royal Vizier</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/100_Royal Vizier_back.jpg" num="100b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Wizard Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Royal Vizier</related>
+		</card>
+		<card>
+			<name>A Contract With Lightning</name>
+			<text>At the beginning of your upkeep, A Contract With Lightning deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/119_A Contract With Lightning.jpg" num="119">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Uyavian Midwife</name>
+			<text>When Uyavian Midwife enters, search your library for an Egg card, reveal it, and put it into your hand. Then shuffle.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/150_Uyavian Midwife.jpg" num="150">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Needless Crusade</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Needless Crusade has no quest counters on it, sacrifice it and it deals 6 damage to each creature.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/137_Needless Crusade.jpg" num="137">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Journey of Self-Discovery</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Journey of Self-Discovery has no quest counters on it, sacrifice it. Then each player discards their hand and draws seven cards.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/133_Journey of Self-Discovery.jpg" num="133">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Treasure-Hoard Dragon</name>
+			<text>Flying
+When Treasure-Hoard Dragon enters, create four tapped Treasure tokens. Each opponent creates two. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/149_Treasure-Hoard Dragon.jpg" num="149">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stephen the Many-Headed</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Stephen the Many-Headed enters with X +1/+1 counters on it.
+Creatures paired with Stephen get +1/+1 for each +1/+1 counter on Stephen.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/183_Stephen the Many-Headed.jpg" num="183">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ouphe Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Green Knight</name>
+			<text>When Green Knight enters, each opponent chooses a creature they control. Green Knight fights any number of those creatures.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/168_Green Knight.jpg" num="168">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jousting Grounds</name>
+			<text>When Jousting Grounds enters, draw a card.
+Creatures can&apos;t be blocked by more than one creature.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/173_Jousting Grounds.jpg" num="173">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tarrasque</name>
+			<text>Trample
+When Tarrasque dies, return it to the battlefield at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/184_Tarrasque.jpg" num="184">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Chimera</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pious Farmer</name>
+			<text>At the beginning of your end step, if you gained life this turn, scry 1. Then if you gained 3 or more life, draw a card. Then if you gained 7 or more life, create a token that&apos;s a copy of Pious Farmer.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/211_Pious Farmer.jpg" num="211">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Mouse Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cook and Eat</name>
+			<text>Cook and Eat deals 4 damage to target creature or planeswalker. If it would die this turn, instead exile it, then tap any number of untapped creatures you control and put a +1/+1 counter on each of them.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/192_Cook and Eat.jpg" num="192">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enchanted Summer</name>
+			<text>Whenever a player taps a land for mana, that player adds one mana of any type that land produced.
+At the end of your turn, transform Enchanted Summer.
+---
+(Back): Enchanted Winter</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/195_Enchanted Summer_front.jpg" num="195a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Enchanted Winter</related>
+		</card>
+		<card>
+			<name>Enchanted Winter</name>
+			<text>Players can&apos;t untap more than one land during their untap steps.
+At the end of your turn, transform Enchanted Winter.
+---
+(Front): Enchanted Summer</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/195_Enchanted Summer_back.jpg" num="195b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Enchanted Summer</related>
+		</card>
+		<card>
+			<name>Luton, Usurper King</name>
+			<text>Creatures you control but don&apos;t own get +1/+1 and have hexproof, haste and menace.
+When Luton enters, gain control of target creature until end of turn. Untap that creature.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/203_Luton, Usurper King.jpg" num="203">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gaheris, Slayer of Heretics</name>
+			<text>First strike, vigilance, menace, haste
+Whenever Gaheris attacks, you may return target Knight creature card from your graveyard to the battlefield tapped and attacking.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/196_Gaheris, Slayer of Heretics.jpg" num="196">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Janjahar the All-Consuming</name>
+			<text>Destroy target artifact or enchantment.
+Destroy target land.
+Destroy target creature or planeswalker.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/200_Janjahar the All-Consuming.jpg" num="200">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Janjahar</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4BRG</manacost>
+				<cmc>7</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kath, Young Adventurer</name>
+			<text>Haste
+Whenever Kath deals damage to a Quest, transform Kath.
+---
+(Back): Kath, Veteran Adventurer</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/201_Kath, Young Adventurer_front.jpg" num="201a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Kath, Veteran Adventurer</related>
+		</card>
+		<card>
+			<name>Kath, Veteran Adventurer</name>
+			<text>Double strike, prowess
+When Kath leaves the battlefield, return all Quest cards from your graveyard to your hand.
+---
+(Front): Kath, Young Adventurer</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/201_Kath, Young Adventurer_back.jpg" num="201b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Kath, Young Adventurer</related>
+		</card>
+		<card>
+			<name>Mitling Mage</name>
+			<text>Whenever you draw your second card each turn, target player loses 3 life.
+Whenever you draw your fourth card each turn, destroy target creature.
+Whenever you draw your twelfth card each turn, target player loses the game.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/206_Mitling Mage.jpg" num="206">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gnome Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nameless God of Crawling Things</name>
+			<text>Indestructible, deathtouch
+Nameless God of Crawling Things can&apos;t attack or block unless you control at least two Insects, Leeches, Scorpions, Slugs, Snails, Spiders, and/or Worms.
+Insects, Leeches, Scorpions, Slugs, Snails, Spiders, and Worms you control get +2/+2.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/207_Nameless God of Crawling Things.jpg" num="207">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nathalie, Heretic Priestess</name>
+			<text>Each creature you control is paired with each other creature you control.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/208_Nathalie, Heretic Priestess.jpg" num="208">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uya, Phelddagrif Queen</name>
+			<text>{G}: Uya gets +1/+1 and gains trample until end of turn. Target opponent creates a 1/1 green Ouphe Hippo creature token.
+{W}: Uya gains vigilance and lifelink until end of turn. Target opponent gains 2 life.
+{U}: Uya gains flying and hexproof until end of turn. Target opponent draws a card.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/215_Uya, Phelddagrif Queen.jpg" num="215">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phelddagrif Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sword of Kings</name>
+			<text>Equipped creature gets +2/+2.
+Equip Noble {1}
+Equip {4}</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/225_Sword of Kings.jpg" num="225">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Desolate Marsh</name>
+			<text>Desolate Marsh enters tapped.
+{T}: Add {B}.
+{3}{B}{B}, {T}: Transform Desolate Marsh.
+---
+(Back): Castle Vrek</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/230_Desolate Marsh_front.jpg" num="230a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Castle Vrek</related>
+		</card>
+		<card>
+			<name>Castle Vrek</name>
+			<text>{T}, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token.
+{T}: Add {B}, plus an additional {B} for each card exiled with Castle Vrek.
+---
+(Front): Desolate Marsh</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/230_Desolate Marsh_back.jpg" num="230b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Desolate Marsh</related>
+		</card>
+		<card>
+			<name>Slumbering Volcano</name>
+			<text>Slumbering Volcano enters tapped.
+{T}: Add {R}.
+{4}{R}{R}{R}, {T}: Transform Slumbering Volcano. Activate only as a sorcery.
+---
+(Back): Reviroa Awakened</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/244_Slumbering Volcano_front.jpg" num="244a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Reviroa Awakened</related>
+		</card>
+		<card>
+			<name>Reviroa Awakened</name>
+			<text>When this card transforms into Reviroa Awakened, it deals 4 damage to each creature and planeswalker.
+{T}: Add {R}{R}{R}.
+---
+(Front): Slumbering Volcano</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/244_Slumbering Volcano_back.jpg" num="244b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Slumbering Volcano</related>
+		</card>
+		<card>
+			<name>Magnificent City</name>
+			<text>Magnificent City enters tapped.
+{T}: Add {W}. 
+{4}{W}{W}, {T}: Transform Magnificent City.
+---
+(Back): Artem, the Bottled Kingdom</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/236_Magnificent City_front.jpg" num="236a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Artem, the Bottled Kingdom</related>
+		</card>
+		<card>
+			<name>Artem, the Bottled Kingdom</name>
+			<text>{T}: Exile target creature you control.
+{T}: Add {W}{W}.
+You may cast creature cards exiled with Artem, the Bottled Kingdom.
+---
+(Front): Magnificent City</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/236_Magnificent City_back.jpg" num="236b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Magnificent City</related>
+		</card>
+		<card>
+			<name>Lost Woods</name>
+			<text>Lost Woods enters tapped.
+{T}: Add {G}.
+{2}{G}{G}, {T}: Transform Lost Woods.
+---
+(Back): The Endless Forest</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/235_Lost Woods_front.jpg" num="235a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">The Endless Forest</related>
+		</card>
+		<card>
+			<name>The Endless Forest</name>
+			<text>({T}: Add {G}.)
+When this permanent transforms into The Endless Forest, search your library for any number of Forest cards and exile them. Then shuffle.
+You may play cards exiled with The Endless Forest.
+---
+(Front): Lost Woods</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/235_Lost Woods_back.jpg" num="235b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Lost Woods</related>
+		</card>
+		<card>
+			<name>Vortheld Pegasus</name>
+			<text>Flying
+Basic Plainscycling {0} (Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
+If you control a land, you can&apos;t cycle Vortheld Pegasus.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/36_Vortheld Pegasus.jpg" num="36">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Command Flame</name>
+			<text>Command Flame deals 4 damage to any target.
+Basic Mountaincycling {0} (Discard this card: Search your library for a basic Mountain card, reveal it, put it into your hand, then shuffle.)
+If you control a land, you can&apos;t cycle Command Flame.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/118_Command Flame.jpg" num="118">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vasilisa Ilyina</name>
+			<text>Vasilisa Ilyina becomes a legendary 3/3 Wolf creature with haste, indestructible, and &quot;this creature must be blocked if able&quot; until end of turn.
+Vasilisa Ilyina becomes a legendary 5/5 Wurm creature with haste, trample, and indestructible until end of turn.
+If Vasilisa Ilyina has seven or more loyalty counters on her, exile her and return her to the battlefield transformed.
+---
+(Back): Vasilisa, Firstborn-Form</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/188_Vasilisa Ilyina_front.jpg" num="188a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vasilisa</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Vasilisa, Firstborn-Form</related>
+		</card>
+		<card>
+			<name>Vasilisa, Firstborn-Form</name>
+			<text>Indestructible, trample, reach, vigilance, haste
+Vasilisa, Firstborn-Form has hexproof unless she&apos;s attacking.
+---
+(Front): Vasilisa Ilyina</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/188_Vasilisa Ilyina_back.jpg" num="188b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Hydra Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Vasilisa Ilyina</related>
+		</card>
+		<card>
+			<name>Mitling House</name>
+			<text>{T}: Add {C}.
+{4}: Transform Mitling House. Activate only as a sorcery.
+---
+(Back): Seven-League Boots</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/238_Mitling House_front.jpg" num="238a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Seven-League Boots</related>
+		</card>
+		<card>
+			<name>Seven-League Boots</name>
+			<text>Equipped creature has first strike and haste.
+Equip {1}
+---
+(Front): Mitling House</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/238_Mitling House_back.jpg" num="238b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Mitling House</related>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/251_Island.jpg" num="251">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/253_Mountain.jpg" num="253">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/252_Swamp.jpg" num="252">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/250_Plains.jpg" num="250">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/254_Forest.jpg" num="254">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Beeback Paladin</name>
+			<text>Flying, deathtouch
+{1}: Beeback Paladin gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/81_Beeback Paladin.jpg" num="81">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Insect Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morossian Curse-Breaker</name>
+			<text>{1}{G}, Sacrifice Morossian Curse-Breaker: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/176_Morossian Curse-Breaker.jpg" num="176">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Insect Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ingenious Fool</name>
+			<text>Haste
+{T}: Another target creature with power 2 or less can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/132_Ingenious Fool.jpg" num="132">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Declare Dominance</name>
+			<text>Target creature gets +3/+3 until end of turn. All creatures able to block it this turn do so.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/161_Declare Dominance.jpg" num="161">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elusive Glatisant</name>
+			<text>Tap an untapped creature you control: That creature fights Elusive Glatisant. When Elusive Glatisant dies this turn, return it to the battlefield transformed and attach it to that creature. Activate only as a sorcery.
+---
+(Back): Fame and Glory</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/164_Elusive Glatisant_front.jpg" num="164a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Beast Chimera</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Fame and Glory</related>
+		</card>
+		<card>
+			<name>Fame and Glory</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+3, has vigilance and hexproof, and is a Noble in addition to its other types.
+---
+(Front): Elusive Glatisant</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/164_Elusive Glatisant_back.jpg" num="164b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Elusive Glatisant</related>
+		</card>
+		<card>
+			<name>Courtly Lover</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Vigilance
+Whenever Courtly Lover attacks or blocks, if it&apos;s paired with a creature that isn&apos;t attacking or blocking, it gets +2/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/5_Courtly Lover.jpg" num="5">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Five Impossible Tasks</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Five Impossible Tasks has no quest counters on it, transform it and pair it with a creature you control.
+---
+(Back): Princess Zineva</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/166_Five Impossible Tasks_front.jpg" num="166a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Princess Zineva</related>
+		</card>
+		<card>
+			<name>Princess Zineva</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Indestructible, ward {3}
+Creatures paired with Princess Zineva have indestructible and ward {3}.
+---
+(Front): Five Impossible Tasks</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/166_Five Impossible Tasks_back.jpg" num="166b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Five Impossible Tasks</related>
+		</card>
+		<card>
+			<name>Treasure AVA</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/17t_Treasure.jpg" num="17">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dragon AVA</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/12t_Dragon.jpg" num="12">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Faerie Wizard AVA</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/5t_Faerie Wizard.jpg" num="5">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human AVA</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/1t_Human.jpg" num="1">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect AVA</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/9t_Insect.jpg" num="9">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Mercenary AVA</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/10t_Mercenary.jpg" num="10">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ouphe Hippo AVA</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/14t_Ouphe Hippo.jpg" num="14">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ouphe Hippo</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ouphe Spider AVA</name>
+			<text>Reach</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/15t_Ouphe Spider.jpg" num="15">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ouphe Spider</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Illusion AVA</name>
+			<text>Flying
+When this creature becomes the target of a spell, sacrifice it.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/7t_Illusion.jpg" num="7">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — llusion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zombie AVA</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/11t_Zombie.jpg" num="11">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dream Logic</name>
+			<text>Nontoken creatures assign combat damage equal to their mana value rather than their power.
+Cycling {R}</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/125_Dream Logic.jpg" num="125">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dub</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2, has first strike, and is a Knight in addition to its other types.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/8_Dub.jpg" num="8">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Valor of the Faithful</name>
+			<text>Creatures you control get +1/+1 and gain lifelink until end of turn. Creatures you control with lifelink get +3/+3 until end of turn instead.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/34_Valor of the Faithful.jpg" num="34">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radiant Monarch</name>
+			<text>Lifelink
+When Radiant Monarch dies, return it to the battlefield transformed.
+---
+(Back): Wounded Monarch</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/25_Radiant Monarch_front.jpg" num="25a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Wounded Monarch</related>
+		</card>
+		<card>
+			<name>Wounded Monarch</name>
+			<text>Whenever you gain 2 or more life, transform Wounded Monarch.
+---
+(Front): Radiant Monarch</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/25_Radiant Monarch_back.jpg" num="25b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Radiant Monarch</related>
+		</card>
+		<card>
+			<name>Farajo, the Mediator</name>
+			<text>Whenever you cast an enchantment spell, draw a card and put a loyalty counter on Farajo, the Mediator. (Creating a token isn&apos;t casting a spell.)
+You gain 3 life.
+Create a white Aura enchantment token named Pacifism attached to target creature. The token has enchant creature and &quot;enchanted creature can&apos;t attack or block&quot;.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/11_Farajo, the Mediator.jpg" num="11">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Farajo</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Silent Knight</name>
+			<text>Deathtouch, menace
+Basic Swampcycling {0} (Discard this card: Search your library for a basic Swamp card, reveal it, put it into your hand, then shuffle.)
+If you control a land, you can&apos;t cycle Silent Knight.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/101_Silent Knight.jpg" num="101">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coven Leader</name>
+			<text>{T}, Tap two untapped Wizards you control: Target player loses 4 life and you gain 4 life.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/86_Coven Leader.jpg" num="86">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prince Valhon</name>
+			<text>Vigilance, lifelink
+When Prince Valhon dies, return it to the battlefield transformed.
+---
+(Back): Rescue the Prince</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/24_Prince Valhon_front.jpg" num="24a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Rescue the Prince</related>
+		</card>
+		<card>
+			<name>Rescue the Prince</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Rescue the Prince has no quest counters on it, transform it.
+---
+(Front): Prince Valhon</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/24_Prince Valhon_back.jpg" num="24b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Prince Valhon</related>
+		</card>
+		<card>
+			<name>Live Happily Ever After</name>
+			<text>When Live Happily Ever After enters, choose two target creatures that are unpaired or paired with each other. Exile them until Live Happily Ever After leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/18_Live Happily Ever After.jpg" num="18">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Befriend</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack you or a permanent you control. (It can still go on Quests.)
+Enchanted creature can&apos;t block creatures you control.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/3_Befriend.jpg" num="3">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Good Luck Charm</name>
+			<text>Sacrifice Good Luck Charm: Equipped creature gains indestructible until end of turn.
+Equip {1}</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/219_Good Luck Charm.jpg" num="219">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aggressive Instinct</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/154_Aggressive Instinct.jpg" num="154">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Treacherous Scorpion</name>
+			<text>Deathtouch</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/186_Treacherous Scorpion.jpg" num="186">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Scorpion</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deceitful Kelpie</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/42_Deceitful Kelpie.jpg" num="42">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Search for the Lamp</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Search for the Lamp has no quest counters on it, put three wish counters on it and transform it.
+---
+(Back): Hassalam the Omnipotent</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/52_Search for the Lamp_front.jpg" num="52a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Hassalam the Omnipotent</related>
+		</card>
+		<card>
+			<name>Hassalam the Omnipotent</name>
+			<text>Flying
+Remove a wish counter from Hassalam the Omnipotent: Choose one —
+• Return target creature to its owner&apos;s hand.
+• Create two tapped Treasure tokens.
+• Draw a card.
+---
+(Front): Search for the Lamp</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/52_Search for the Lamp_back.jpg" num="52b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Djinn</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Search for the Lamp</related>
+		</card>
+		<card>
+			<name>Sleep Forever</name>
+			<text>Enchant creature
+When Sleep Forever enters, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
+When enchanted creature is paired, sacrifice Sleep Forever and draw a card.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/56_Sleep Forever.jpg" num="56">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gruff Goat</name>
+			<text>Vigilance, trample
+Gruff Goat enters with X +1/+1 counters on it, where X is the amount of life you&apos;ve gained this turn.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/169_Gruff Goat.jpg" num="169">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Punisher of Heresy</name>
+			<text>As Punisher of Heresy enters, choose a card name.
+Whenever a player activates an ability of a permanent with the chosen name, if it isn&apos;t a mana ability, Punisher of Heresy deals 6 damage to that player.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/140_Punisher of Heresy.jpg" num="140">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Macabre Groom</name>
+			<text>Marriage
+Sacrifice another creature: Put a +1/+1 counter on Macabre Groom and each creature paired with it.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/204_Macabre Groom.jpg" num="204">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wicked Stepfather</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Menace
+Sacrifice a creature paired with Wicked Stepfather: Wicked Stepfather gets +3/+3 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/114_Wicked Stepfather.jpg" num="114">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suspicious Atoll</name>
+			<text>Suspicious Atoll enters tapped.
+{T}: Add {U}.
+{5}{U}{U}, {T}: Transform Suspicious Atoll.
+---
+(Back): The Aspidochelone</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/245_Suspicious Atoll_front.jpg" num="245a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">The Aspidochelone</related>
+		</card>
+		<card>
+			<name>The Aspidochelone</name>
+			<text>Trample
+---
+(Front): Suspicious Atoll</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/245_Suspicious Atoll_back.jpg" num="245b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Whale Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Suspicious Atoll</related>
+		</card>
+		<card>
+			<name>Curse of Vrek</name>
+			<text>Enchant opponent
+Whenever a nontoken creature enchanted player controls dies, create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/87_Curse of Vrek.jpg" num="87">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Costly Plunder</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/85_Costly Plunder.jpg" num="85">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Draconic Consort</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+Flying
+Creatures paired with Draconic Consort get +3/+2, have flying, and are Dragons in addition to their other types.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/122_Draconic Consort.jpg" num="122">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bride of the Nameless God</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+At the beginning of your end step, create a token that&apos;s a copy of a creature paired with Bride of the Nameless God, except it isn&apos;t legendary if that creature is legendary.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/156_Bride of the Nameless God.jpg" num="156">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ugly Duckling</name>
+			<text>Flying
+{3}{W}{W}: Transform Ugly Duckling. Activate only as a sorcery.
+---
+(Back): Swan King</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/31_Ugly Duckling_front.jpg" num="31a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Swan King</related>
+		</card>
+		<card>
+			<name>Swan King</name>
+			<text>Flying, lifelink
+When this creature transforms into Swan King, create two 1/1 white Ouphe Bird creature tokens with flying and lifelink.
+---
+(Front): Ugly Duckling</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/31_Ugly Duckling_back.jpg" num="31b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Ouphe Bird Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ugly Duckling</related>
+		</card>
+		<card>
+			<name>Goldenplate Paladin</name>
+			<text>When Goldenplate Paladin dies, return it to the battlefield transformed.
+---
+(Back): Inherited Wargear</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/14_Goldenplate Paladin_front.jpg" num="14a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Inherited Wargear</related>
+		</card>
+		<card>
+			<name>Inherited Wargear</name>
+			<text>Equipped creature gets +1/+1. If it&apos;s a Knight, it gets +2/+2 instead.
+Equip {3}
+---
+(Front): Goldenplate Paladin</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/14_Goldenplate Paladin_back.jpg" num="14b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Goldenplate Paladin</related>
+		</card>
+		<card>
+			<name>Sentence to Regret</name>
+			<text>Enchant opponent
+Enchanted player can&apos;t cast spells that share a name with a card in their graveyard.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/213_Sentence to Regret.jpg" num="213">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Meaningless Violence</name>
+			<text>Until end of turn, target creature you control gains &quot;When this creature dies, draw two cards&quot;. Then it fights target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/205_Meaningless Violence.jpg" num="205">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>A King&apos;s Ransom</name>
+			<text>When A King&apos;s Ransom enters, create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+Tap two untapped Treasures you control: Create a 1/1 black Mercenary creature token. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/220_A King&apos;s Ransom.jpg" num="220">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Test of Character</name>
+			<text>Each player may draw two cards. Each player who does loses 2 life, and each player who doesn&apos;t gains 4 life.
+Draw a card.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/107_Test of Character.jpg" num="107">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demon AVA</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/8t_Demon.jpg" num="8">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Giant Slayer</name>
+			<text>Whenever Giant Slayer deals damage to a creature with power 4 or greater, destroy that creature.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/13_Giant Slayer.jpg" num="13">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Mouse Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cavalier Cavalier</name>
+			<text>Cavalier Cavalier attacks each combat if able unless it&apos;s paired.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/117_Cavalier Cavalier.jpg" num="117">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Lord&apos;s Orders</name>
+			<text>Untap target creature and gain control of it until end of turn. It gains haste until end of turn. When it dies this turn, create a 2/2 black Zombie creature token.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/193_Dark Lord&apos;s Orders.jpg" num="193">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quest for the Holy Blade</name>
+			<text>(You can attack this. Opponents block for this. Damage removes counters.)
+When Quest for the Holy Blade has no quest counters on it, transform it.
+---
+(Back): The Firesword of Artemy</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/141_Quest for the Holy Blade_front.jpg" num="141a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Quest</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">The Firesword of Artemy</related>
+		</card>
+		<card>
+			<name>The Firesword of Artemy</name>
+			<text>Equipped creature gets +5/+0 and has first strike and trample.
+Equip {0}
+---
+(Front): Quest for the Holy Blade</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/141_Quest for the Holy Blade_back.jpg" num="141b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Quest for the Holy Blade</related>
+		</card>
+		<card>
+			<name>Tranquility</name>
+			<text>Destroy all enchantments.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/185_Tranquility.jpg" num="185">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skinchanger&apos;s Talisman</name>
+			<text>Equipped creature is a Cat with base power and toughness 4/4, has trample, and loses all other abilities and creature types.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/224_Skinchanger&apos;s Talisman.jpg" num="224">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wishing Fish</name>
+			<text>{T}, Shuffle Wishing Fish into its owner&apos;s library: Reveal a noncreature card you own from outside the game and put it into your hand.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/70_Wishing Fish.jpg" num="70">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Fish Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magnificent Heist</name>
+			<text>Look at the top six cards of target opponent&apos;s library, exile two of them, and put the rest into their owner&apos;s graveyard. You may cast those cards for as long as they remain exiled and may spend mana as though it were mana of any type to do so.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/94_Magnificent Heist.jpg" num="94">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lady of the Lake</name>
+			<text>When Lady of the Lake enters, search your library for an Equipment or Quest card, reveal it, and put it into your hand. Then shuffle.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/48_Lady of the Lake.jpg" num="48">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nymph Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merchant Prince</name>
+			<text>At the beginning of combat on your turn, exile the top card of your library. Each player secretly bids an amount of life. The winner loses that much life and may play the card as long as it remains exiled, spending mana as though it were mana of any type to do so. You decide who wins ties.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/97_Merchant Prince.jpg" num="97">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Merchant Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Holy Fire</name>
+			<text>Holy Fire deals X damage to any target. You gain X life.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/198_Holy Fire.jpg" num="198">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XRW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peasant Revolt</name>
+			<text>Create ten 1/1 red Peasant creature tokens with haste and &quot;This creature attacks each combat if able&quot;.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/139_Peasant Revolt.jpg" num="139">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peasant AVA</name>
+			<text>Haste 
+This creature attacks each combat if able.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/13t_Peasant.jpg" num="13">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Nathalian Heretic</name>
+			<text>Trample
+Nathalian Heretic gets +1/+0 for each paired creature you control.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/136_Nathalian Heretic.jpg" num="136">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witch&apos;s Heir</name>
+			<text>Flying, prowess
+Whenever Witch&apos;s Heir attacks, up to one target creature loses all abilities and becomes a 1/1 Frog until end of turn.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/76_Witch&apos;s Heir.jpg" num="76">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Return to Childhood</name>
+			<text>Enchant opponent
+Creatures enchanted player controls have base power and toughness 1/1.
+Cycling {2}</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/51_Return to Childhood.jpg" num="51">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tyrant&apos;s Mark</name>
+			<text>Enchant creature
+At the beginning of each upkeep, put a blight counter on Tyrant&apos;s Mark.
+Enchanted creature gets -1/-1 for each blight counter on Tyrant&apos;s Mark.
+When enchanted creature dies, return Tyrant&apos;s Mark to the battlefield transformed.
+---
+(Back): Children of the Nameless God</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/109_Tyrant&apos;s Mark_front.jpg" num="109a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Children of the Nameless God</related>
+		</card>
+		<card>
+			<name>Children of the Nameless God</name>
+			<text>Flying, deathtouch
+When Children of the Nameless God enters, search your library for a card named Tyrant&apos;s Mark and put it into your hand. Then shuffle.
+---
+(Front): Tyrant&apos;s Mark</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/109_Tyrant&apos;s Mark_back.jpg" num="109b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Tyrant&apos;s Mark</related>
+		</card>
+		<card>
+			<name>Dragon-Kissed Princess</name>
+			<text>Marriage (At beginning of combat, you may pair this monogamously with another creature for as long as you control both.)
+{R}: Dragon-Kissed Princess or a creature paired with it gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/124_Dragon-Kissed Princess.jpg" num="124">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unworthy Usurper</name>
+			<text>At the beginning of your upkeep, you lose 1 life and create a 1/1 black Insect creature token.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/112_Unworthy Usurper.jpg" num="112">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Search the Stories</name>
+			<text>Draw three cards. Then discard two cards unless you discard an enchantment card.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/53_Search the Stories.jpg" num="53">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dubious Potion</name>
+			<text>Target creature gets +1/+1 and gains deathtouch until end of turn. If it&apos;s a Wizard, it also gains indestructible and lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/89_Dubious Potion.jpg" num="89">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mighty Castle</name>
+			<text>{T}: Add {C}.
+{2}: Mighty Castle becomes a 0/5 Wall artifact creature with defender until end of turn.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/237_Mighty Castle.jpg" num="237">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Faerie Godmother</name>
+			<text>Flying
+When Faerie Godmother enters, you may search your library for an Aura card, reveal it, and put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/10_Faerie Godmother.jpg" num="10">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Queen of the Fair Folk</name>
+			<text>Ward {4}
+{1}: Target land becomes a 5/5 Elemental creature with trample and haste until end of turn. It&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/180_Queen of the Fair Folk.jpg" num="180">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magical Loom</name>
+			<text>{2}, {T}: Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/221_Magical Loom.jpg" num="221">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Miserly Dwarf-Lord</name>
+			<text>When Miserly Dwarf-Lord dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/135_Miserly Dwarf-Lord.jpg" num="135">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Garden</name>
+			<text>{T}: Add {C}.
+{2}, {T}: Put a growth counter on Royal Garden. Then if there are three or more growth counters on Royal Garden, remove them all and transform it.
+---
+(Back): Skyscraping Beanstalk</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/241_Royal Garden_front.jpg" num="241a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Skyscraping Beanstalk</related>
+		</card>
+		<card>
+			<name>Skyscraping Beanstalk</name>
+			<text>{T}: Add three mana of any one color.
+---
+(Front): Royal Garden</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/241_Royal Garden_back.jpg" num="241b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Royal Garden</related>
+		</card>
+		<card>
+			<name>Wise Owl</name>
+			<text>Flying
+{3}{U}: Scry 1.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/69_Wise Owl.jpg" num="69">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demon of Temptation</name>
+			<text>Flying, lifelink
+When Demon of Temptation enters, each player may search their library for a card and put it into their hand. Each player that does loses 6 life and shuffles. Each player that doesn&apos;t gains 6 life.</text>
+			<set rarity="rare" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/88_Demon of Temptation.jpg" num="88">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witch-Queen Yarag</name>
+			<text>Prowess
+Curse spells you cast cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.
+Whenever you cast a Curse spell, you may draw a card.</text>
+			<set rarity="mythic" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/216_Witch-Queen Yarag.jpg" num="216">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Hag Wizard Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impoverished Village</name>
+			<text>Impoverished Village enters tapped.
+{T}: Add {R}.
+{T}, Sacrifice three Treasures: Transform Impoverished Village. Activate only as a sorcery.
+---
+(Back): Prosperous City</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/233_Impoverished Village_front.jpg" num="233a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Prosperous City</related>
+		</card>
+		<card>
+			<name>Prosperous City</name>
+			<text>When this land transforms into Prosperous City, add {W}{U}{B}{R}{G}.
+{T}: Add two mana of any one color.
+---
+(Front): Impoverished Village</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/233_Impoverished Village_back.jpg" num="233b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Impoverished Village</related>
+		</card>
+		<card>
+			<name>Oppressed Kingdom</name>
+			<text>Oppressed Kingdom enters tapped.
+{T}: Add {B}.
+{T}, Tap an untapped Noble you control, sacrifice another Noble: Transform Oppressed Kingdom. Activate only as a sorcery.
+---
+(Back): Liberated Kingdom</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/239_Oppressed Kingdom_front.jpg" num="239a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Liberated Kingdom</related>
+		</card>
+		<card>
+			<name>Liberated Kingdom</name>
+			<text>When this land transforms into Liberated Kingdom, draw three cards.
+{T}: Add two mana of any one color.
+---
+(Front): Oppressed Kingdom</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/239_Oppressed Kingdom_back.jpg" num="239b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Oppressed Kingdom</related>
+		</card>
+		<card>
+			<name>A School For Witches</name>
+			<text>A School For Witches enters tapped.
+{T}: Add {U}.
+{T}, Sacrifice two Quests: Transform A School For Witches. Activate only as a sorcery.
+---
+(Back): Yaragi Fief</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/242_A School For Witches_front.jpg" num="242a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Yaragi Fief</related>
+		</card>
+		<card>
+			<name>Yaragi Fief</name>
+			<text>When this land transforms into Yaragi Fief, create two 2/2 blue Human Wizard Noble creature tokens.
+{T}: Add two mana of any one color.
+---
+(Front): A School For Witches</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/242_A School For Witches_back.jpg" num="242b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">A School For Witches</related>
+		</card>
+		<card>
+			<name>Accursed Barony</name>
+			<text>Accursed Barony enters tapped.
+{T}: Add {W}.
+{T}, Sacrifice two Curses: Transform Accursed Barony. Activate only as a sorcery.
+---
+(Back): Utopian Barony</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/228_Accursed Barony_front.jpg" num="228a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Utopian Barony</related>
+		</card>
+		<card>
+			<name>Utopian Barony</name>
+			<text>When this land transforms into Utopian Barony, you gain 12 life.
+{T}: Add two mana of any one color.
+---
+(Front): Accursed Barony</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/228_Accursed Barony_back.jpg" num="228b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Accursed Barony</related>
+		</card>
+		<card>
+			<name>Untamed Wilderness</name>
+			<text>Untamed Wilderness enters tapped.
+{T}: Add {G}.
+{T}, Tap two untapped Ouphes you control: Transform Untamed Wilderness. Activate only as a sorcery.
+---
+(Back): Uyavian Province</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/248_Untamed Wilderness_front.jpg" num="248a">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Uyavian Province</related>
+		</card>
+		<card>
+			<name>Uyavian Province</name>
+			<text>When this land transforms into Uyavian Province, put a +1/+1 counter on each creature you control.
+{T}: Add two mana of any one color.
+---
+(Front): Untamed Wilderness</text>
+			<set rarity="uncommon" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/248_Untamed Wilderness_back.jpg" num="248b">AVA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Untamed Wilderness</related>
+		</card>
+		<card>
+			<name>Ouphe Bird AVA</name>
+			<text>Flying, lifelink</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/3t_Ouphe Bird.jpg" num="3">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ouphe Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human Wizard Noble AVA</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/6t_Human Wizard Noble.jpg" num="6">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Wizard Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Pacifism AVA</name>
+			<text>Enchant creature 
+Enchanted creature can&apos;t attack or block.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/4t_Pacifism.jpg" num="4">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Pious Farmer (Token) AVA</name>
+			<text>At the beginning of your end step, if you gained life this turn, scry 1. Then if you gained 3 or more life, draw a card. Then if you gained 7 or more life, create a token that&apos;s a copy of Pious Farmer.</text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/16t_Pious Farmer (Token).jpg" num="16">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ouphe Mouse Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Noble AVA</name>
+			<text></text>
+			<set rarity="common" picurl="https://PhilippeSaner.github.io/sets/AVA-files/img/2t_Noble.jpg" num="2">AVA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
